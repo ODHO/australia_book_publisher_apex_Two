@@ -82,341 +82,157 @@
 
  <!-- Column 10 Start -->
 
- <section class="testimonialToggleClass testimonialClass">
-    <div class="container testimonialClass" id="testimonial1" style="display: none;">
-        <div class="row py-5 my-5">
-            <div class="col-md-6 imageCenter">
-                <div class="w3-container w3-center w3-animate-left">
-                    <div class="afloat1">
-                        <h5>Our Ratings</h5>
-                        <div><span class="fa fa-star checked" aria-hidden="true"></span>
-                            <span class="fa fa-star checked" aria-hidden="true"></span>
-                            <span class="fa fa-star checked" aria-hidden="true"></span>
-                            <span class="fa fa-star checked" aria-hidden="true"></span>
-                            <span class="fa fa-star checked" aria-hidden="true"></span>
-                        </div>
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-3"><p>5 star</p></div>
-                                <div class="col-md-6 progress">
-                                    <div class="progress-bar bg-warning" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-                                </div>
-                                <div class="col-md-3"><p>84%</p></div>
-                            </div>
-                            <!-- Similar rows for other star ratings -->
-                        </div>
-                    </div>
-                </div>
-                <img class="imageRadius" src="images/images-1ameli.jpg" width="400px" alt="StorylinePublisher">
-                <div class="w3-container w3-center w3-animate-right">
-                    <div class="afloat2">
-                        <div class="align-left">
-                            <span class="fa fa-star checked" aria-hidden="true"></span>
-                            <span class="fa fa-star checked" aria-hidden="true"></span>
-                            <span class="fa fa-star checked" aria-hidden="true"></span>
-                            <span class="fa fa-star checked" aria-hidden="true"></span>
-                            <span class="fa fa-star checked" aria-hidden="true"></span>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-4 text-start"><img class="imageRadius" src="images/images-1john.jpg" width="50px" alt="StorylinePublisher"></div>
-                            <div class="col-md-8 text-start">
-                                <h5>JOHN</h5>
-                                <p>Marketing Manager</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <h3>Yvonnia</h3>
-                <h6>Marketing Manager</h6>
-                <p>A mere sentence will not do justice to the quality of the work they provide! They have an amazing and supportive team who helped me throughout the publication. Kudos to the Amazon Publishing Pros!</p>
-            </div>
-            <div class="col-md-2">
-                <i class="fa fa-angle-up d-block text-center" onclick="showPrevious()" aria-hidden="true"></i>
-                <img class="d-block m-auto my-sm-2" src="images/images-1laura.jpg" width="100px" alt="StorylinePublisher">
-                <img class="d-block m-auto my-sm-2" src="images/images-1john.jpg" width="100px" alt="StorylinePublisher">
-                <i class="fa fa-angle-down d-block text-center" onclick="showNext()" aria-hidden="true"></i>
-            </div>
-        </div>
-    </div>
-    <div class="container testimonialClass" id="testimonial2" style="display: block;">
-            <div class="row py-5 my-5">
-                <div class="col-md-6 imageCenter">
+    
+    <!-- Testimonial Section -->
+	<section class="testimonial-section">
+		<div class="large-container">
+			<div class="sec-title">
+				<span class="title">Testimonial</span>
+				<h2>What Our core client say ?</h2>
+			</div>
 
-                    <div class="w3-container w3-center w3-animate-left">
-                        <div class="afloat1">
-                            <h5>Our Ratings</h5>
-                            <div><span class="fa fa-star checked" aria-hidden="true"></span>
-                                <span class="fa fa-star checked" aria-hidden="true"></span>
-                                <span class="fa fa-star checked" aria-hidden="true"></span>
-                                <span class="fa fa-star checked" aria-hidden="true"></span>
-                                <span class="fa fa-star checked" aria-hidden="true"></span>
-                            </div>
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-3">
-                                        <p>5 star</p>
-                                    </div>
-                                    <div class="col-md-6 progress">
-                                        <div class="progress-bar bg-warning " role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <p>84%</p>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-3">
-                                        <p>4 star</p>
-                                    </div>
-                                    <div class="col-md-6 progress">
-                                        <div class="progress-bar bg-warning " role="progressbar" style="width: 9%" aria-valuenow="9" aria-valuemin="0" aria-valuemax="100"></div>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <p>9%</p>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-3">
-                                        <p>3 star</p>
-                                    </div>
-                                    <div class="col-md-6 progress">
-                                        <div class="progress-bar bg-warning " role="progressbar" style="width: 4%" aria-valuenow="4" aria-valuemin="0" aria-valuemax="100"></div>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <p>4%</p>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-3">
-                                        <p>2 star</p>
-                                    </div>
-                                    <div class="col-md-6 progress">
-                                        <div class="progress-bar bg-warning " role="progressbar" style="width: 2%" aria-valuenow="2" aria-valuemin="0" aria-valuemax="100"></div>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <p>2%</p>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-3">
-                                        <p>1 star</p>
-                                    </div>
-                                    <div class="col-md-6 progress">
-                                        <div class="progress-bar bg-warning " role="progressbar" style="width: 1%" aria-valuenow="1" aria-valuemin="0" aria-valuemax="100"></div>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <p>1%</p>
-                                    </div>
-                                </div>
-                            </div>
+			<div class="testimonial-carousel owl-carousel owl-theme">
+				<!-- Testimonial Block -->
+				<div class="testimonial-block">
+					<div class="inner-box">
+						<div class="text">Why is this important? Because clients want to know the businesses they depend on for advice, are well managed in their own right.  Not only that but this event gives you the chance to give your back-office team</div>
+						<div class="info-box">
+							<div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt=""></div>
+							<h4 class="name">john Riad Ridi</h4>
+							<span class="designation">Ui Designer & CEO</span>
+						</div>
+					</div>
+				</div>
 
-                        </div>
-                    </div>
+				<!-- Testimonial Block -->
+				<div class="testimonial-block">
+					<div class="inner-box">
+						<div class="text">Why is this important? Because clients want to know the businesses they depend on for advice, are well managed in their own right.  Not only that but this event gives you the chance to give your back-office team</div>
+						<div class="info-box">
+							<div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt=""></div>
+							<h4 class="name">john Riad</h4>
+							<span class="designation">tax Designer & CEO</span>
+						</div>
+					</div>
+				</div>
 
+				<!-- Testimonial Block -->
+				<div class="testimonial-block">
+					<div class="inner-box">
+						<div class="text">Why is this important? Because clients want to know the businesses they depend on for advice, are well managed in their own right.  Not only that but this event gives you the chance to give your back-office team</div>
+						<div class="info-box">
+							<div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt=""></div>
+							<h4 class="name">john Hell Riad</h4>
+							<span class="designation">tech Designer & CEO</span>
+						</div>
+					</div>
+				</div>
+			</div>
 
-
-                    <img class="imageRadius" src="images/images-1john.jpg" width="400px" alt="StorylinePublisher">
-                    <div class="w3-container w3-center w3-animate-right">
-                        <div class="afloat2">
-                            <div class="align-left"><span class="fa fa-star checked" aria-hidden="true"></span>
-                                <span class="fa fa-star checked" aria-hidden="true"></span>
-                                <span class="fa fa-star checked" aria-hidden="true"></span>
-                                <span class="fa fa-star checked" aria-hidden="true"></span>
-                                <span class="fa fa-star checked" aria-hidden="true"></span>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-4 text-start"><img class="imageRadius" src="images/images-1laura.jpg" width="50px" alt="StorylinePublisher">
-                                </div>
-                                <div class="col-md-8 text-start">
-                                    <h5>Laura</h5>
-                                    <p>Fashion Deisgner</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <h3>John</h3>
-                    <h6>Business Owner</h6>
-                    <p>1 thing down, 10 more to go! That’s how I began working on publishing my book, until StorylinePublisher came along. Their commitment to winding up all the publishing processes within the time frame deserves all the appreciation. They picked up my slack and got everything in order in a timely manner. My book came out at least a couple of months before my original planning for releasing the book and I’d ever considered getting professional help. Thank you guys!</p>
-
-
-                </div>
-                <div class="col-md-2">
-                    <i class="fa fa-angle-up d-block text-center" onclick="allOne()" aria-hidden="true"></i>
-                    <img class="d-block m-auto my-sm-2" src="images/images-1ameli.jpg" width="100px" alt="StorylinePublisher">
-                    <img class="d-block m-auto my-sm-2" src="images/images-1laura.jpg" width="100px" alt="StorylinePublisher">
-                    <i class="fa fa-angle-down d-block text-center" onclick="allTwo()" aria-hidden="true"></i>
-                </div>
-            </div>``
-        </div>
-    <div class="container testimonialClass" id="testimonial3" style="display:none;">
-        <!-- Content of Testimonial 3 -->
-    </div>
-</section>
-
+			<div class="thumb-layer paroller">
+				<figure class="image"><img src="images/user-thumbs 2.png" alt=""></figure>
+			</div>
+		</div>
+	</section>
+	<!--End Testimonial Section -->
 
 
 
 
     <!--Mobile testimonial Start -->
-    <section class="mobileTestimonial">
-    <div class="wrapper" style="margin: 30px 0px;">
-    <div class="box">
-      <i class="fas fa-quote-left quote"></i>
-      <p>If you&rsquo;re looking for a truly dedicated team of publishers, you&rsquo;ve come to the right place! Kudos to StorylinePublisher for keeping up with the constantly changing requirements of the book. I couldn&rsquo;t have covered everything without their professional help and attention to detail. Done and dusted with book one and looking forward to publishing my next installment!</p>
-      <div class="content">
-        <div class="info">
-          <div class="name">Ameli</div>
-          <div class="job">Marketing Manager</div>
-          <div class="stars">
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="far fa-star"></i>
-            <i class="far fa-star"></i>
-            <i class="far fa-star"></i>
-          </div>
-        </div>
-        <div class="image">
-          <img src="images/images-1ameli.jpg" alt="">
-        </div>
-      </div>
-    </div>
-    <div class="box">
-      <i class="fas fa-quote-left quote"></i>
-      <p>1 thing down, 10 more to go! That&rsquo;s how I began working on publishing my book, until StorylinePublisher came along. Their commitment to winding up all the publishing processes within the time frame deserves all the appreciation. They picked up my slack and got everything in order in a timely manner. My book came out at least a couple of months before my original planning for releasing the book and I&rsquo;d ever considered getting professional help. Thank you guys!</p>
-      <div class="content">
-        <div class="info">
-          <div class="name">John</div>
-          <div class="job">Business Owner</div>
-          <div class="stars">
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="far fa-star"></i>
-            <i class="far fa-star"></i>
-          </div>
-        </div>
-        <div class="image">
-          <img src="images/images-1john.jpg" alt="">
-        </div>
-      </div>
-    </div>
-    <div class="box">
-      <i class="fas fa-quote-left  quote"></i>
-      <p>When I wanted to publish my first book, I had no idea where to start. Thanks to StorylinePublisher and their team of editors for patiently assisting and guiding me through the entire process. They&rsquo;re now my go-to publication for all my future books.</p>
-      <div class="content">
-        <div class="info">
-          <div class="name">Laura</div>
-          <div class="job">Fashion Designer</div>
-          <div class="stars">
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="far fa-star"></i>
-          </div>
-        </div>
-        <div class="image">
-          <img src="images/images-1laura.jpg" alt="">
-        </div>
-      </div>
-    </div>
-  </div>
-  </section>
+   
     <!-- Mobile Testimonial End -->
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-            <h2 class="lk">Everyone is Waiting for Your Amazing Book- We Can Help You Get Started</h2>
-            <p class="bh">StorylinePublisher has a highly efficient system for book creation and publication. You will be in command and oversee every area of the book as we draft your book for you within a matter of days. </p>
+    <section class="dimg">
+        <div class="container padd">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2 class="lk">Industry-Leading Experts For Your Assistance</h2>
+                    <p class="bh">We publishes both eBooks and print books for authors, StorylinePublisher has also
+                        been developing its own list of authors who write and publish books exclusively with the
+                        company.</p>
                 </div>
                 <div class="col-md-2"></div>
-            <div class="col-md-5">
-                <ul class="jui">
-                    <li>Share your project details </li>
-                    <li>Editing and formatting of your manuscript to make your book publish-ready</li>
-                    <li>An ISBN Number to help with sales and Publishing</li>
-                    <li>Publication preference –Online or in Print </li>
-                    <li>Featured on Amazon Kindle or Apple iBookstore</li>
-                    <li>Exceptional service throughout the Project cycle</li>
-                    <li>Achieve fame and authority in the digital world </li>
-                </ul>
-            </div>
-            <div class="col-md-3">
-                <img src="images/images-book3.png" alt="" width="350">
-            </div>
-            <div class="col-md-2"></div>
-            
-             <div class="container">
-        <div class="row">
-            <div class="col-md-5"></div>
-            <div class="col-md-2">   
-        <a href="javascript: ;" class="btn btn11-warning mt-3">START PROJECT</a>
-</div>
+                <div class="col-md-5">
+                    <p class="hh">
+StorylinePublisher is a leading facilitator of self-publishing and marketing for independent authors. We offer our authors full market coverage and make their work accessible to their target audience. We have professional teams of marketers, publishers, proofreaders, ghostwriters, designers, editors, narrators, and illustrators to work on your project with dedication. Let’s publish your book in print, eBook, and audiobook formats!
+</p>
+                  
+                </div>
+                <div class="col-md-3">
+                    <img src="images/images-book3.png" alt="" width="350">
+                </div>
+                <div class="col-md-2"></div>
+
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-5"></div>
+                        <div class="col-md-2">
+                            <a href="javascript:$zopim.livechat.window.show()" class="btn btn11-warning mb-5">Start
+                                Project</a>
+                        </div>
+    </section>
 <div class="col-md-5"></div>
 </div>
 </div>
         </div>
 
     </div>
+    <div class="service-back-color-set-single">
     <section class="carousel right container-fluid">
         <div class="slide"></div>
         <div class="wrap mobileOverflow">
             <ul>
-                <li><img src="images/cover-1.png"></li>
-                <li><img src="images/cover-2.png"></li>
-                <li><img src="images/cover-3.png"></li>
-                <li><img src="images/cover-4.png"></li>
-                <li><img src="images/cover-5.png"></li>
-                <li><img src="images/cover-6.png"></li>
-                <li><img src="images/cover-7.png"></li>
-                <li><img src="images/cover-8.png"></li>
-                <li><img src="images/cover-9.png"></li>
-                <li><img src="images/cover-10.png"></li>
-                <li><img src="images/cover-11.png"></li>
-                <li><img src="images/cover-12.png"></li>
-				<li><img src="images/cover-13.png"></li>
-				<li><img src="images/cover-14.png"></li>
-				<li><img src="images/cover-15.png"></li>
+                <li><img src="images/cover-1.png" /></li>
+                <li><img src="images/cover-2.png" /></li>
+                <li><img src="images/cover-3.png" /></li>
+                <li><img src="images/cover-4.png" /></li>
+                <li><img src="images/cover-5.png" /></li>
+                <li><img src="images/cover-6.png" /></li>
+                <li><img src="images/cover-7.png" /></li>
+                <li><img src="images/cover-8.png" /></li>
+                <li><img src="images/cover-9.png" /></li>
+                <li><img src="images/cover-10.png" /></li>
+                <li><img src="images/cover-11.png" /></li>
+                <li><img src="images/cover-12.png" /></li>
+                <li><img src="images/cover-13.png" /></li>
+                <li><img src="images/cover-14.png" /></li>
+                <li><img src="images/cover-15.png" /></li>
             </ul>
         </div>
     </section>
     <section class="carousel right container-fluid">
         <div class="slide"></div>
         <div class="wrap mobileOverflow">
-            <ul>      
-                <li><img src="images/cover-16.png"></li>
-                <li><img src="images/cover-17.png"></li>
-                <li><img src="images/cover-18.png"></li>
-                <li><img src="images/cover-19.png"></li>
-                <li><img src="images/cover-20.png"></li>
-                <li><img src="images/cover-21.png"></li>
-                <li><img src="images/cover-22.png"></li>
-                <li><img src="images/cover-23.png"></li>
-                <li><img src="images/cover-24.png"></li>
-                <li><img src="images/cover-25.png"></li>
-                <li><img src="images/cover-26.png"></li>
-				<li><img src="images/cover-27.png"></li>
-				<li><img src="images/cover-28.png"></li>
-				<li><img src="images/cover-29.png"></li>
-				<li><img src="images/cover-30.png"></li>
+            <ul>
+                <li><img src="images/cover-16.png" /></li>
+                <li><img src="images/cover-17.png" /></li>
+                <li><img src="images/cover-18.png" /></li>
+                <li><img src="images/cover-19.png" /></li>
+                <li><img src="images/cover-20.png" /></li>
+                <li><img src="images/cover-21.png" /></li>
+                <li><img src="images/cover-22.png" /></li>
+                <li><img src="images/cover-23.png" /></li>
+                <li><img src="images/cover-24.png" /></li>
+                <li><img src="images/cover-25.png" /></li>
+                <li><img src="images/cover-26.png" /></li>
+                <li><img src="images/cover-27.png" /></li>
+                <li><img src="images/cover-28.png" /></li>
+                <li><img src="images/cover-29.png" /></li>
+                <li><img src="images/cover-30.png" /></li>
             </ul>
         </div>
-		    <div class="container mb-3">
-        <div class="row">
-            <div class="col-md column2">
-                <h2>Book a Call with Our Consultant to Get Help with Your Book</h2>
-                <h5>Call Us to Kick-start Your Project Right Away!</h5>
-                <div class="button-center">
-                    <a class=" btn btn12-warning ms-3" href="/get-a-quote/">Start Project</a>
-                    </div>
-                <a class="btn btn12-warning ms-3" href="/get-a-quote/">Get a Quote</a>
+        <div class="container mb-3">
+            <div class="row">
+                <div class="col-md column2">
+                    <h2>Book a Call with Our Consultant to Get Help with Your Book</h2>
+                    <h5>Call Us to Kick-start Your Project Right Away!</h5>
+                    <a href="/get-a-quote/" class="btn btn11-warning">START PROJECT</a>
+                    <a class="btn btn12-warning ms-3" href="/get-a-quote/">Get a Quote</a>
+                </div>
             </div>
         </div>
-    </div>
     </section>
+    </div>
    
     <?php include_once("form-global.php") ?>
     <?php include_once("faqs-global.php") ?>

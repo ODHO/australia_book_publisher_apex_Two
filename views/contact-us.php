@@ -107,15 +107,7 @@
                     <p class="hh">
 StorylinePublisher is a leading facilitator of self-publishing and marketing for independent authors. We offer our authors full market coverage and make their work accessible to their target audience. We have professional teams of marketers, publishers, proofreaders, ghostwriters, designers, editors, narrators, and illustrators to work on your project with dedication. Let’s publish your book in print, eBook, and audiobook formats!
 </p>
-                    <!--<ul class="jui">-->
-                    <!--    <li>A custom written book by us on a topic specified by you </li>-->
-                    <!--    <li>A complete,eloquently designed book ready for Print! </li>-->
-                    <!--    <li>An ISBN Number to assist you with publishing and sales </li>-->
-                    <!--    <li>Option to print and/or promote the book online </li>-->
-                    <!--    <li>Your Book Featured on Amazon Kindle and Apple iBookstore </li>-->
-                    <!--    <li>Exceptional service and support throughout the Project </li>-->
-                    <!--    <li>Opportunity to gain fame, authority and advance in your career </li>-->
-                    <!--</ul>-->
+                  
                 </div>
                 <div class="col-md-3">
                     <img src="images/images-book3.png" alt="" width="350">
@@ -136,6 +128,7 @@ StorylinePublisher is a leading facilitator of self-publishing and marketing for
     </div>
 
     </div>
+    <div class="service-back-color-set-single">
     <section class="carousel right container-fluid">
         <div class="slide"></div>
         <div class="wrap mobileOverflow">
@@ -190,7 +183,7 @@ StorylinePublisher is a leading facilitator of self-publishing and marketing for
             </div>
         </div>
     </section>
-  
+    </div>
     <?php include_once("form-global.php") ?>
     <?php include_once("faqs-global.php") ?>
     <?php include_once("includes/footer.php") ?>

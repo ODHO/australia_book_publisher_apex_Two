@@ -32,11 +32,11 @@
                     <!--    <li>Cover Design</li>-->
                     <!--</ul>-->
                     <div class="home-button">
-                    <a class="btn btn12-warning button--winona ms-3" data-text="Start Project" href="/get-a-quote/">
-                            <span>Start Project</span>
+                    <a class="btn btn12-warning ms-3" data-text="Start Project" href="/get-a-quote/">
+                            Start Project
                        </a>
                         <a class="btn btn12-warning button--winona ms-3" data-text="Get a Quote" href="/get-a-quote/">
-                            <span>Get a Quote</span>
+                            Get a Quote
                         </a>
 
                     </div>
@@ -573,7 +573,7 @@ Many authors have had their books edited by StorylinePublisher. And one thing ha
 						<div class="text">Why is this important? Because clients want to know the businesses they depend on for advice, are well managed in their own right.  Not only that but this event gives you the chance to give your back-office team</div>
 						<div class="info-box">
 							<div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt=""></div>
-							<h4 class="name">Mahfuz Riad</h4>
+							<h4 class="name">john Riad Ridi</h4>
 							<span class="designation">Ui Designer & CEO</span>
 						</div>
 					</div>
@@ -585,7 +585,7 @@ Many authors have had their books edited by StorylinePublisher. And one thing ha
 						<div class="text">Why is this important? Because clients want to know the businesses they depend on for advice, are well managed in their own right.  Not only that but this event gives you the chance to give your back-office team</div>
 						<div class="info-box">
 							<div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt=""></div>
-							<h4 class="name">behroz Riad</h4>
+							<h4 class="name">john Riad</h4>
 							<span class="designation">tax Designer & CEO</span>
 						</div>
 					</div>
@@ -597,7 +597,7 @@ Many authors have had their books edited by StorylinePublisher. And one thing ha
 						<div class="text">Why is this important? Because clients want to know the businesses they depend on for advice, are well managed in their own right.  Not only that but this event gives you the chance to give your back-office team</div>
 						<div class="info-box">
 							<div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt=""></div>
-							<h4 class="name">Shifan Riad</h4>
+							<h4 class="name">john Hell Riad</h4>
 							<span class="designation">tech Designer & CEO</span>
 						</div>
 					</div>

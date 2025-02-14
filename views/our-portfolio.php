@@ -78,7 +78,7 @@
     <!-- Banner End -->
 
     <!-- Column 3 Start -->
-
+    <div class="service-back-color-set">
     <div class="container bnmn">
         <div class="row">
             <div class="col-md column3">
@@ -88,6 +88,7 @@
                 <p class="para">We have collaborated with aspiring and well-recognized writers to best-selling authors on various writing and publishing projects. Let’s have a look at some of the work we have produced in our professional experience. </p>
             </div>
         </div>
+    </div>
     </div>
 
 
@@ -100,7 +101,7 @@
     <!-- Column 4 Start -->
 
 
-
+    <div class="service-back-color-set-single">
     <section class="carousel right container-fluid">
         <div class="slide"></div>
         <div class="wrap mobileOverflow">
@@ -155,6 +156,7 @@
             </div>
         </div>
     </section>
+</div>
     <?php include_once("form-global.php") ?>
     <?php include_once("faqs-global.php") ?>
     <?php include_once("includes/footer.php") ?>
