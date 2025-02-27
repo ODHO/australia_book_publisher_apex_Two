@@ -2452,6 +2452,7 @@ img.studentSize {
 }
 .forimg{
     background:linear-gradient(106deg, #000000, #000000, #000000, #000000), url(../images/images-Shape-1.png);
+    padding-top: 4rem;
 
 }
 .bmbn {
