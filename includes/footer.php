@@ -28,7 +28,7 @@
         <div class="container ">
             <div class="row">
                 <div class="col-md-5">
-                    <a href="/"><img src="images/logo.png" width="200px"></a>
+                    <a href="/"><img src="images/logos2.png" width="120px"></a>
                     <p class="opi" style="color: #fff !important;">StorylinePublisher is a trailblazer in the world of self-publishing. We help facilitate the self-publishing and marketing process on behalf of independent authors and help them sell their books as e-books, audiobooks, hardcover and paperback books worldwide.</p>
                     <!-- <img src="images/images-google.png" height="30">
                     <img src="images/images-scribd.png" height="30">

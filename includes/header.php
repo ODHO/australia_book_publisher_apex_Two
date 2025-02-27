@@ -1,5 +1,6 @@
 <section class="container-fluid mainHead">
-  <div class="row">
+ <div class="container">
+ <div class="row">
     <div class="col-lg-6">
       <p class="text1"><a href="javascript:$zopim.livechat.window.toggle();">START A LIVE CHAT</a></p>
     </div>
@@ -7,11 +8,13 @@
       <p class="text2">Mon-Fri &nbsp;&nbsp; (9.00AM-05.30PM EST)</p>
     </div>
   </div>
+ </div>
 </section>
-<section class="container blackBack p-4">
+<section class="container blackBack ">
   <div class="row">
-    <nav class="navbar navbar-expand-lg navbar-light">
-      <a href="/"><img class="logopng" src="images/logo.png"></a>
+   <div class="col-md-12">
+   <nav class="navbar navbar-expand-lg navbar-light">
+      <a href="/"><img class="logopng" src="images/logos2.png"></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -71,5 +74,6 @@
         </ul>
       </div>
     </nav>
+   </div>
   </div>
 </section>

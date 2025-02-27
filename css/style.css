@@ -1083,7 +1083,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 
 .text1 {
     color: white;
-    text-align: center;
+    text-align: start;
     font-weight: 500;
     font-family: sans-serif;
     margin-bottom: 0;
@@ -1196,7 +1196,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 
 .text2 {
     color: white !important;
-    text-align: center;
+    text-align: right;
     font-weight: 500;
     font-family: sans-serif;
     margin-bottom: 0;
@@ -1245,7 +1245,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 }
 
 .logopng {
-    width: 165px;
+    width: 75px;
     /* height: 75px; */
 
 }
@@ -1631,7 +1631,7 @@ button.btn.btn13-warning:hover::before {
 }
 
 .bannform {
-    margin: auto;
+    margin-left: auto;
     display: table;
     width: 35%;
 }
@@ -2389,9 +2389,7 @@ img.studentSize {
 }
 
 .parag {
-    background: linear-gradient(45deg, #fc538da6, #ce3df3ba);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: #fff;
     font-size: 36px !important;
     text-align: center;
     font-weight: bold;
@@ -3345,7 +3343,7 @@ margin-right: 2px;
     background: linear-gradient(45deg, #fc538d57, #ce3df329);
 }
 nav.navbar.navbar-expand-lg.navbar-light {
-    padding: 5px 18px;
+    padding: 18px 22px;
     background: linear-gradient(45deg, #fc538d57, #ce3df329);
     border-radius: 13px;
     backdrop-filter: blur(5px);
@@ -4687,7 +4685,6 @@ p {
         display: none;
     }
     section#home-section-contact {
-        background: #f7f9fc;
         padding: 70px 0px 70px 0px;
     }
     button.accordion-button.clr.collapsed:before {

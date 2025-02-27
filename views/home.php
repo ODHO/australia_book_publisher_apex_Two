@@ -196,7 +196,7 @@
 
        <div class="container">
        <div class="row ">
-            <h3 class="parag">Our Services</h3>
+            <h3 class="parag text-white">Our Services</h3>
             <div class="col-md-2"></div>
             <div class="col-md-8">
                 <p class="colpar">We are a full-service self-publishing company that helps independent authors like yourself find their voice and get their work out into the world. We offer everything from book writing and interior designing to editing, proofreading, copywriting, formatting, marketing, and more.</p>
