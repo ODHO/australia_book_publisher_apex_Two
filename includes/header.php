@@ -1,16 +1,4 @@
-<section class="container-fluid mainHead">
- <div class="container">
- <div class="row">
-    <div class="col-lg-6">
-      <p class="text1"><a href="javascript:$zopim.livechat.window.toggle();">START A LIVE CHAT</a></p>
-    </div>
-    <div class="col-lg-6">
-      <p class="text2">Mon-Fri &nbsp;&nbsp; (9.00AM-05.30PM EST)</p>
-    </div>
-  </div>
- </div>
-</section>
-<section class="container blackBack ">
+<!-- <section class="container blackBack ">
   <div class="row">
    <div class="col-md-12">
    <nav class="navbar navbar-expand-lg navbar-light">
@@ -76,4 +64,63 @@
     </nav>
    </div>
   </div>
-</section>
+</section> -->
+<div class="main-header-book-publishing">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-4">
+        <nav>
+          <div class="hamburger" onclick="toggleMenu()">☰</div>
+          <div class="nav-menu">
+            <a href="/" class="nav-item">Home</a>
+            <a href="about-us/" class="nav-item">About</a>
+            <div class="nav-item dropdown" id="services-dropdown">
+              Services <span class="dropdown-arrow">▾</span>
+              <ul class="dropdown-menu">
+                <li><a href="book-promotion/">Book Promotion</a></li>
+                
+              </ul>
+            </div>
+            <a href="#" class="nav-item">Portfolio</a>
+          </div>
+        </nav>
+      </div>
+
+     
+      <div class="col-md-4 text-center">
+        <div class="logo-book-publishing">
+          <a href="/">
+            <img src="../images/logo-main-booking.png" class="logo-set-image" alt="Logo">
+          </a>
+        </div>
+      </div>
+
+      <div class="col-md-4 text-end">
+        <div class="contact-us-btn-sec">
+          <a href="contact-us/" class="btn-contact-sec">Contact Us</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  function toggleMenu() {
+    document.querySelector(".nav-menu").classList.toggle("active");
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    const servicesDropdown = document.getElementById("services-dropdown");
+    const dropdownMenu = servicesDropdown.querySelector(".dropdown-menu");
+
+    servicesDropdown.addEventListener("click", function (event) {
+      event.stopPropagation();
+      dropdownMenu.style.display =
+        dropdownMenu.style.display === "block" ? "none" : "block";
+    });
+
+    document.addEventListener("click", function () {
+      dropdownMenu.style.display = "none";
+    });
+  });
+</script>

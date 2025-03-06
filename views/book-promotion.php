@@ -14,61 +14,31 @@
 
 <body>
     <?php include_once("includes/header.php") ?> <!-- Banner Start -->
-    <section class="container-fluid bannimg">
+    <div class="inner-serivce-banner-hero-sec">
         <div class="container">
             <div class="row">
-                <div class="col-lg-7">
-                    <h3 class="text3">Boost Your Book Sales with Our Professional</h3>
-                    <h1 class="text4"><span style="color: #ef0001;">Book Promotion Services</span></h1>
-                    <p class="mnbvcx">Our professional book promotion solutions meet your unique book marketing needs. <br> We execute result-oriented
-                        book marketing strategies to make your book stand out.</p>
-                   <div class="home-button">
-                   <a href="/get-a-quote/" class="btn btn12-warning ms-3">START PROJECT</a>
-                   <a class="btn btn12-warning ms-3" href="/get-a-quote/">Get a Quote</a>
-                   </div>
-                    <!-- <div>
-                    <img class="trusted" src="images/images-trusted.png">
-                </div> -->
-                </div>
-                <div class="col-lg-5 bannform">
-                     <div class="form-container" id="form-container">
-                    <form action="/email-handler/" method="post" id="ajax_contact" class="tab details">
-                        <input type="hidden" name="brand" value="theamzscout">
-                        <input type="hidden" name="token" value="<?= $token; ?>">
-                        <input type="hidden" name="tag" value="banner-right-form">
-                        <input type="hidden" name="price" value="null">
-                        <input type="hidden" name="news" value="1">
-                        <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
+                <div class="col-md-5">
+                    <div class="inner-serivce-banner-heading">
+                        <h1>Before You Say Goodbye.</h1>
+                        <h3>A Fiction Novel By Thomas Dietrich</h3>
+                        <p>Dapibus parturient nunc nostra egestas integer. Iaculis ullamcorper a elementum
+                            fringilla sollicitudin viverra nam malesuada ante eleifend.</p>
+                    </div>
+                    <div class="recognation-button-1">
+                        <a class="recog-btn-1" href=""> Get a Quote</a>
+                        <a class="recog-btn-2" href="">Live Chat</a>
+                        <a class="recog-btn-3" href="tel:+1 (833) 856-1274"> <i class="bi bi-telephone-fill"></i> +1 (833) 856-1274</a>
 
-                        <div id="secondForm">
-                            <div class="form-group ">
-                            <h2 class="text9">Reach Out to Us</h2>
-                                <p class="text-center" style="color: white;">
-                                Please fill out the form below to submit your query. Our team will respond to you shortly
-                                </p>
-                                <input type="text" class="form-control" id="exampleInputName1" placeholder="Name" name="name" Required>
-                            </div>
-                            <div class="form-group">
-                                <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email" name="email" Required>
-                            </div>
-                            <div class="form-group">
-                                <input type="tel" class="form-control" id="exampleInputPhone1" placeholder="Phone Number" name="phone" Required>
-                            </div>
-                            <div class="form-group">
-                                <textarea class="form-control" id="exampleInputAbout1" rows="4" placeholder="I am looking for ...." name="brief"></textarea>
-                            </div>
-                            <button type="submit" class="btn btn13-warning">Start Now!</button>
-                        </div>
-                    </form>
+                    </div>
                 </div>
-                 <div id="success-message" style="display: none; text-align: center;">
-    <h3>Thank you! Your message has been successfully sent.</h3>
-</div>
+                <div class="col-md-7">
+                    <div class="inner-banner-image">
+                        <img src="images/tier-book-img.webp" alt="">
+                    </div>
                 </div>
             </div>
         </div>
-    </section>
-
+    </div>
 
 
 
@@ -82,28 +52,28 @@
     <!-- Column 1 Start -->
 
 
-  <div class="single-service-back-set">
-  <div class="container column1 zxccvbb">
-        <div class="row align-items-center">
-            <div class="col-lg-6">
-                <img class="booklengthuty" src="images/images-creative-book.png">
-            </div>
-            <div class="col-md-6 ASDFGH">
-                <h2>ROI-Focused Book Marketing Solutions for Books of All Genres</h2>
-                <p>Our team includes professional and experienced marketers who join the heads together to create ingenious book marketing plans to get books featured on the top media platforms. Our services are curated, with a special emphasis on bringing the most outstanding results in minimum time.</p>
+    <!-- <div class="single-service-back-set">
+        <div class="container column1 zxccvbb">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <img class="booklengthuty" src="images/images-creative-book.png">
+                </div>
+                <div class="col-md-6 ASDFGH">
+                    <h2>ROI-Focused Book Marketing Solutions for Books of All Genres</h2>
+                    <p>Our team includes professional and experienced marketers who join the heads together to create ingenious book marketing plans to get books featured on the top media platforms. Our services are curated, with a special emphasis on bringing the most outstanding results in minimum time.</p>
 
-                <div class="recognation-button-1">
-                    <a class="recog-btn-1" href=""> Get a Quote</a>
-                    <a class="recog-btn-2" href="">Live Chat</a>
-                    <a class="recog-btn-3" href="tel:+1 (833) 856-1274"> <i class="bi bi-telephone-fill"></i> +1 (833) 856-1274</a>
+                    <div class="recognation-button-1">
+                        <a class="recog-btn-1" href=""> Get a Quote</a>
+                        <a class="recog-btn-2" href="">Live Chat</a>
+                        <a class="recog-btn-3" href="tel:+1 (833) 856-1274"> <i class="bi bi-telephone-fill"></i> +1 (833) 856-1274</a>
+
+                    </div>
+
 
                 </div>
-
-
             </div>
         </div>
-    </div>
-  </div>
+    </div> -->
 
 
     <!-- Column 1 End -->
@@ -112,22 +82,49 @@
     <!-- Column 1 End -->
 
     <?php include_once("service-global.php") ?>
+
+
     <!-- Column 3 Start -->
 
-    <div class="single-service-back-set">
-  <div class="container bnmns">
-        <div class="row">
-            <div class="col-md column3 fdewgfrewfawe">
-                <h1 class="heading1">Check Out Our <span>Portfolio</span></h1>
-                <p class="para">We have collaborated with aspiring and well-recognized writers to best-selling authors on various writing and publishing projects. Have a sneak peek at some of the work we have produced in our professional experience.</p>
+    <div class="week-best-seller-books-set">
+        <div class="container bntnnewwrr">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <div class="week-best-seller-books-text-heading">
+                        <h1>Weekly Best Seller.</h1>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus,
+                            luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+                    </div>
+                    <div class="recognation-button-1">
+
+                        <a class="recog-btn-3" href="tel:+1 (833) 856-1274"> <i class="bi bi-telephone-fill"></i> +1 (833) 856-1274</a>
+
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="week-best-seller-books-img-banner">
+                        <img src="images/tier-book-img.webp" alt="">
+                    </div>
+                </div>
             </div>
         </div>
     </div>
-  </div>
 
 
-   <div class="service-back-color-set-single">
-   <section class="carousel right container-fluid">
+    <div class="single-service-back-set">
+        <div class="container bnmns">
+            <div class="row">
+                <div class="col-md column3 fdewgfrewfawe">
+                    <h1 class="heading1">Check Out Our <span>Portfolio</span></h1>
+                    <p class="para">We have collaborated with aspiring and well-recognized writers to best-selling authors on various writing and publishing projects. Have a sneak peek at some of the work we have produced in our professional experience.</p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    <section class="carousel right container-fluid rado-set">
         <div class="slide"></div>
         <div class="wrap mobileOverflow">
             <ul>
@@ -149,7 +146,7 @@
             </ul>
         </div>
     </section>
-    <section class="carousel right container-fluid">
+    <section class="carousel right container-fluid rado-set-two" style="margin-bottom: 0;">
         <div class="slide"></div>
         <div class="wrap mobileOverflow">
             <ul>
@@ -170,20 +167,76 @@
                 <li><img src="images/cover-30.png" /></li>
             </ul>
         </div>
-        <div class="container mb-3">
+
+    </section>
+      <div class="our-wild-partner">
+        <div class="container">
             <div class="row">
-                <div class="col-md column2">
-                    <h2>Book a Call with Our Consultant to Get Help <br> with Your Book</h2>
-                    <h5>Call Us to Kick-start Your Project Right Away!</h5>
-                    <a href="/get-a-quote/" class="btn btn11-warning">START PROJECT</a>
-                    <a class="btn btn12-warning ms-3" href="/get-a-quote/">Get a Quote</a>
+                <div class="col-md-12">
+                    <div class="our-wild-partner-heading">
+                        <h1>Our partner from worldwide.</h1>
+                    </div>
+
+                    <div class="logo-our-wild-img">
+                        <div class="row">
+                            <div class="col-md-12">
+                            <div class="logo-our-wild-img-section">
+                             <img src="../images/par-logo.png" alt="">
+                             <img src="../images/par-logo2.png" alt="">
+                             <img src="../images/par-logo3.png" alt="">
+                             <img src="../images/par-logo4.png" alt="">
+                             <img src="../images/par-logo6.png" alt="">
+                             </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="logo-our-wild-img">
+                        <div class="row">
+                            <div class="col-md-12">
+                            <div class="logo-our-wild-img-section">
+                             <img src="../images/par-logo8.png" alt="">
+                             <img src="../images/par-logo-7.png" alt="">
+                             <img src="../images/par-logo-9.png" alt="">
+                             <img src="../images/par-logo.png" alt="">
+                             <img src="../images/par-logo3.png" alt="">
+                             </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-    </section>
-   </div>
+      </div>
+      <div class="book-end-need">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="book-end-need-firstbox">
+                        <div class="icon-book-box">
+                            <img src="../images/Container.png" alt="" srcset="">
+                        </div>
+                        <div class="icon-book-box-text">
+                            <h3>Book Information?</h3>
+                            <p>Please send us an email at support@laautor.tld</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="book-end-need-firstbox1">
+                        <div class="icon-book-box">
+                            <img src="../images/Symbol.png" alt="" srcset="">
+                        </div>
+                        <div class="icon-book-box-text">
+                            <h3>Need Help?</h3>
+                            <p>Please call us at +6221.1000.1212</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+      </div>
+
     <?php include_once("form-global.php") ?>
-    <?php include_once("faqs-global.php") ?>
 
     <?php include_once("includes/footer.php") ?>
 </body>

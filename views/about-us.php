@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<?php include_once("includes/head.php")?>
-    <title>StorylinePublisher: The Team Behind The Bestsellers</title>
+    <title>Australian Book Publishing : The Team Behind The Bestsellers</title>
 <meta name="keywords" content="about StorylinePublisher">
 <meta name="description" content="StorylinePublisher is as talented and spirited as ever. We offer a variety of services for authors and publishers alike. Contact us for your book&rsquo;s next steps.">
 
@@ -14,58 +14,24 @@
 <body>
     <?php include_once("includes/header.php")?><!-- Banner Start -->
 
-    <section class="container-fluid bannimg">
+    <div class="banner-publishing-main">
         <div class="container">
-        <div class="row">
-            <div class="col-lg-7">
-                <!--<h3 class="text3">WHY CHOOSE US</h3>-->
-                <h1 class="text4">Welcome To <span>StorylinePublisher</span></h1>
-                    <p class="mnbvcxqwww">StorylinePublisher was established a decade ago and has since grown substantially. Our award-winning book writers, publishers, and marketers can help you turn your thoughts and experience into best-selling books. Using your unique voice and exceptional plotline, we help you create groundbreaking works of art.</p>
-                   <div class="home-button">
-                   <a class=" btn btn12-warning ms-3" href="/get-a-quote/">Start Project</a>
-                   <a class="btn btn12-warning ms-3" href="/get-a-quote/">Get a Quote</a>
-                   </div>
-                <!-- <div>
-                    <img class="trusted" src="images/images-trusted.png">
-                </div> --> 
+            <div class="col-md-6">
+                <div class="banner-heading-and-set">
+                    <h1>Self-Publishing on</h1>
+                    <h3>Amazon Simplified.</h3>
+                    <p>Australian Book Publishing  is a leader in self-publishing facilitation and marketing for
+                        independent authors. Our goal is to help you publish your book while offering premium
+                        quality services throughout the project cycle. Above all, you get to take 100% of your net
+                        royalties!</p>
+                </div>
+                <div class="btn-banner-two-button">
+                    <a href="#" class="btn-start-pro">Start Project</a>
+                    <a href="#" class="btn-start-pro">Get a Quote</a>
+                </div>
             </div>
-            <div class="col-lg-5 bannform">
-                 <div class="form-container" id="form-container">
-			<form action="/email-handler/" method="post" id="ajax_contact" class="tab details">
-                            <input type="hidden" name="brand" value="theamzscout">
-                            <input type="hidden" name="token" value="<?= $token;?>">
-                            <input type="hidden" name="tag" value="banner-right-form">
-                            <input type="hidden" name="price" value="null">
-                            <input type="hidden" name="news" value="1">
-                            <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
-
-<div id="secondForm">
-	<div class="form-group ">
-		 <h2 class="text9">Reach Out to Us</h2>
-                                <p class="text-center" style="color: white;">
-                                Please fill out the form below to submit your query. Our team will respond to you shortly
-                                </p>
-		<input type="text" class="form-control" id="exampleInputName1" placeholder="Name" name="name" required>
-	</div>
-	<div class="form-group">
-		<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email" name="email" required>
-	</div>
-	<div class="form-group">
-		<input type="tel" class="form-control" id="exampleInputPhone1" placeholder="Phone Number" name="phone" required>
-	</div>
-	<div class="form-group">
-		<textarea class="form-control" id="exampleInputAbout1" rows="4" placeholder="I am looking for ...." name="brief"></textarea>
-	</div>
-	<button type="submit" class="btn btn13-warning">Start Now!</button>
-	   </div> 
-</form>            
-</div>
- <div id="success-message" style="display: none; text-align: center;">
-    <h3>Thank you! Your message has been successfully sent.</h3>
-</div>
         </div>
-        </div>
-    </section>
+    </div>
 
 
 
@@ -86,7 +52,7 @@
             </div>
             <div class="col-lg-6">
                 <h1 class="asdfghjklop">Changing The Way People Think About Books</h1>
-                <p>StorylinePublisher is a leading team of online publishers in the USA. In a short time, we have achieved what thousands only dream of making possible –becoming a household name in hybrid publishing. Irrespective of the publishing platform, we help you get your work out in the market through Amazon's Kindle Direct Publishing platform. </p>
+                <p>Australian Book Publishing  is a leading team of online publishers in the USA. In a short time, we have achieved what thousands only dream of making possible –becoming a household name in hybrid publishing. Irrespective of the publishing platform, we help you get your work out in the market through Amazon's Kindle Direct Publishing platform. </p>
                 
             </div>
         </div>
@@ -129,7 +95,7 @@
       
     <div class="col-lg-2 hjtyuifr">
         <h3 class="bb">Writing for Boundless Genres</h3>
-        <p class="bbh">Our expert writers enjoy writing for every genre since StorylinePublisher is driven by the brainpower of well-educated professionals who specialize in diverse fields of study.</p>
+        <p class="bbh">Our expert writers enjoy writing for every genre since Australian Book Publishing  is driven by the brainpower of well-educated professionals who specialize in diverse fields of study.</p>
     </div>
     <div class="col-lg-2 hjtyuifr">
         <h3 class="bb">Brainstorming to reach excellence</h3>
@@ -165,7 +131,7 @@
     
     <!-- Column 3 Start -->
 
-   <div class="main-about-net-new-section">
+   <!-- <div class="main-about-net-new-section">
    <div class="container bnmn">
         <div class="row">
             <div class="col-md column3">
@@ -230,8 +196,64 @@
         </div>
     </div>
     </section>
-   </div>
+   </div> -->
+   <section class="forimg">
+        <div class="container bnmn">
+            <div class="row">
+                <div class="col-md column3">
+                    <h1 class="heading1">Check Out Our Portfolio </h1>
+                    <p class="para">We have collaborated with aspiring and well-recognized writers to best-selling authors on various writing and publishing projects. Let’s have a look at some of the work we have produced in our professional experience. </p>
+                </div>
+            </div>
+        </div>
+    </section>
 
+
+    <section class="carousel right container-fluid rado-set">
+        <div class="slide"></div>
+        <div class="wrap mobileOverflow">
+            <ul>
+                <li><img src="images/cover-1.png" /></li>
+                <li><img src="images/cover-2.png" /></li>
+                <li><img src="images/cover-3.png" /></li>
+                <li><img src="images/cover-4.png" /></li>
+                <li><img src="images/cover-5.png" /></li>
+                <li><img src="images/cover-6.png" /></li>
+                <li><img src="images/cover-7.png" /></li>
+                <li><img src="images/cover-8.png" /></li>
+                <li><img src="images/cover-9.png" /></li>
+                <li><img src="images/cover-10.png" /></li>
+                <li><img src="images/cover-11.png" /></li>
+                <li><img src="images/cover-12.png" /></li>
+                <li><img src="images/cover-13.png" /></li>
+                <li><img src="images/cover-14.png" /></li>
+                <li><img src="images/cover-15.png" /></li>
+            </ul>
+        </div>
+    </section>
+    <section class="carousel right container-fluid rado-set-two">
+        <div class="slide"></div>
+        <div class="wrap mobileOverflow">
+            <ul>
+                <li><img src="images/cover-16.png" /></li>
+                <li><img src="images/cover-17.png" /></li>
+                <li><img src="images/cover-18.png" /></li>
+                <li><img src="images/cover-19.png" /></li>
+                <li><img src="images/cover-20.png" /></li>
+                <li><img src="images/cover-21.png" /></li>
+                <li><img src="images/cover-22.png" /></li>
+                <li><img src="images/cover-23.png" /></li>
+                <li><img src="images/cover-24.png" /></li>
+                <li><img src="images/cover-25.png" /></li>
+                <li><img src="images/cover-26.png" /></li>
+                <li><img src="images/cover-27.png" /></li>
+                <li><img src="images/cover-28.png" /></li>
+                <li><img src="images/cover-29.png" /></li>
+                <li><img src="images/cover-30.png" /></li>
+            </ul>
+        </div>
+
+    </section>
     
     <?php include_once("form-global.php") ?>
     <?php include_once("faqs-global.php") ?>

@@ -1,4 +1,11 @@
+
 <div class="container-fluid column5">
+<div class="video-container">
+    <video autoplay muted loop playsinline>
+        <source src="images/send-flip.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
         <div class="row">
             <h3 class="parag">Our Services</h3>
             <div class="col-md-2"></div>

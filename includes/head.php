@@ -34,9 +34,9 @@ if (isset($_SERVER['HTTPS'])) {
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-<link rel="icon" href="../fav.png" type="image/png">
+<link rel="icon" href="../images/Vector (15).png" type="image/png">
 
-<title>StorylinePublisher: A New Way to Publish Your Book</title>
+<title>Australian Book publishing </title>
 <meta name="description" content="Put your book in front of millions of readers on Amazon and Kindle. Explore Amazon Publishing Service and publish your book with the help of a talented editor, cover designer, and marketing consultant." />
 <meta name="keywords" content="book, book writing,ebook formatting, ghost writing, online text editor, ghost book writing, writing, book authors,online writing tool, writing book, book editor, ebook publishing, collaborative writing, online book publishing, amazon publishing">
 

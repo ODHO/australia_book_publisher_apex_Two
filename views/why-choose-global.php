@@ -16,8 +16,11 @@
                      <p>StorylinePublisher has a team of dedicated book marketers who comprehend the authors’ needs and follow a proactive approach to market your book effectively.</p>
                   </div>
                </div>
-               <div class="col-lg-5">
-                  <img src="images/tier-book-img.webp" alt="">
+               
+               <div class="col-lg-6">
+                 <div class="why-choose-img-sec">
+                 <img src="images/01_Book_Mockup.png.png   " alt="">
+                 </div>
 </div>
     </div>
     

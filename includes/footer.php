@@ -1,35 +1,10 @@
-<!-- Footer Start -->
-<section id="footer-top">
-<div class="container-fluid">
-<div class="row justify-content-md-between align-items-center">
-            <div class="col-md-4 ">
-                <h3 class="rty">We’d love to hear about your project. </h3>
-                <p class="asdf">Get in touch with us and share all your project details. We’re here to enliven your dream of becoming a published author. </p>
-                
-            </div>
-            <div class="col-md-4 text-end">
-               <div class="footer-top-image-wrapper">
-                <img src="../images/footer-top-image.webp" alt="">
-               </div>
-            </div>  
-            <div class="col-md-2">
-            <a href="tel:+1 (833) 856-1274" class="call d-flex align-items-center justify-content-md-start justify-content-center"> <span class="me-2 icon"><i class="bi bi-telephone-fill"></i></span> <span class=""><span class="ft-call">Call
-            Now</span><br> <span class="fw-700 text-white">+1 (833) 856-1274</span></span> </a>
-            </div> 
-            <div class="col-md-2">
-           <div class="footer-top-button">
-           <a href="contact-us/" class="btn btn19-warning">Contact Us <i class="fa fa-angle-right"></i></a>
-           </div>
-            </div> 
-        </div>
-</div>
-</section>
+
 <section class="container-fluid web">
         <div class="container ">
             <div class="row">
                 <div class="col-md-5">
-                    <a href="/"><img src="images/logos2.png" width="120px"></a>
-                    <p class="opi" style="color: #fff !important;">StorylinePublisher is a trailblazer in the world of self-publishing. We help facilitate the self-publishing and marketing process on behalf of independent authors and help them sell their books as e-books, audiobooks, hardcover and paperback books worldwide.</p>
+                    <a href="/">  <img src="../images/logo-main-booking.png" class="logo-set-image" alt=""></a>
+                    <p class="opi" style="color: #000000 !important;">Australian Book Publishing  is a trailblazer in the world of self-publishing. We help facilitate the self-publishing and marketing process on behalf of independent authors and help them sell their books as e-books, audiobooks, hardcover and paperback books worldwide.</p>
                     <!-- <img src="images/images-google.png" height="30">
                     <img src="images/images-scribd.png" height="30">
                     <img src="images/images-kobo.png" height="30">
@@ -61,21 +36,21 @@
                 </div>
                 <div class="col-md-3">
                     <h3 class="nmb">Contact</h3>
-                    <p class="vgy"> <i class="far fa-envelope zz"></i><a href="mailto:query@StorylinePublisher.com">query@StorylinePublisher.com</a></p>
+                    <p class="vgy"> <i class="far fa-envelope zz"></i><a style=" margin-left: 10px;" href="mailto:query@Australian Book Publishing .com">query@Australian Book Publishing .com</a></p>
                    
-                    <p class="vgy"> <i class="bi bi-telephone-fill"></i><a href="tel:+1 (833) 856-1274">+1 (833) 856-1274</a></p>
+                    <p class="vgy"> <i class="bi bi-telephone-fill"></i><a style=" margin-left: 10px;" href="tel:+1 (833) 856-1274">+1 (833) 856-1274</a></p>
                     
 					
                 </div>
                 <div class="col-lg-8">
-                    <p><p style="margin-bottom: 32px; color:white !important;"><strong>Disclaimer:</strong> StorylinePublisher is an independent entity helping self-reliant authors with book publishing and marketing solutions. We believe in ethical business practices and abide by US Federal and State Laws.</p></p>
+                    <p><p style="margin-bottom: 32px; color:#000000 !important;"><strong>Disclaimer:</strong> Australian Book Publishing  is an independent entity helping self-reliant authors with book publishing and marketing solutions. We believe in ethical business practices and abide by US Federal and State Laws.</p></p>
                 </div>
                 <div class="col-lg-4">
                 <p class="color" style="margin-top: 40px;"><a href="terms-and-condition/">Terms & Conditions</a> | <a href="privacy-policy/">Privacy Policy</a></p>
                 </div>
             </div>
             <div class="pt-sm-5">
-                <p class="color">&copy; 2024 - StorylinePublisher | All right reserved.</p>
+                <p class="color">&copy; 2024 - Australian Book Publishing  | All right reserved.</p>
                 <p class="color">Disclaimer: We are not affiliated with Amazon, We are seprate entity</p>
             </div>
         </div>
@@ -596,4 +571,6 @@ $(".menu-icon").click(function(){
         });
 
     })(jQuery);
+ 
+
 </script>
