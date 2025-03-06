@@ -17,21 +17,28 @@
                         <li><a href="/">Home</a></li>
                         <li><a href="about-us/">About Us</a></li>
                         <!-- <li><a href="our-services/">Services </a></li> -->
-                        <li><a href="our-portfolio/">Portfolio</a></li>
-                        <li><a href="client-testimonials/">Testimonial</a></li>
+                        <li><a href="#">Portfolio</a></li>
+                        <li><a href="#">Testimonial</a></li>
                         <li><a href="contact-us/">Contact Us</a></li>
                     </ul>
                 </div>
                 <div class="col-md-2">
                     <h3 class="jki">Services</h3>
                     <ul class="ytu">
-                        <li><a href="book-promotion/"> Book Promotions </a></li>
+                        <li><a href="#"> Book Promotions </a></li>
+						<li><a href="#"> E-Book Writing </a></li>
+						<li><a href="#"> Editing </a></li>
+						<!-- <li><a href="book-cover-designing/"> Cover Design </a></li> -->
+						<li><a href="#"> Proofreading </a></li>
+						<li><a href="#"> Publishing </a></li>
+						<li><a href="#"> Article Writing </a></li>
+                        <!-- <li><a href="book-promotion/"> Book Promotions </a></li>
 						<li><a href="e-book-writing/"> E-Book Writing </a></li>
 						<li><a href="editing/"> Editing </a></li>
-						<!-- <li><a href="book-cover-designing/"> Cover Design </a></li> -->
-						<li><a href="proofreading/"> Proofreading </a></li>
-						<li><a href="publishing/"> Publishing </a></li>
-						<li><a href="article-Writing/"> Article Writing </a></li>
+						<! <li><a href="book-cover-designing/"> Cover Design </a></li> -->
+						<!-- <li><a href="proofreading/"> Proofreading </a></li> -->
+						<!-- <li><a href="publishing/"> Publishing </a></li> -->
+						<!-- <li><a href="article-Writing/"> Article Writing </a></li> -->
                     </ul>
                 </div>
                 <div class="col-md-3">
