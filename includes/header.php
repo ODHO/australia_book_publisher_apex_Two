@@ -67,8 +67,8 @@
 </section> -->
 <div class="main-header-book-publishing">
   <div class="container">
-    <div class="row align-items-center">
-      <div class="col-md-4">
+  <div class="row align-items-center">
+      <div class="col-lg-4 col-4">
         <nav>
           <div class="hamburger" onclick="toggleMenu()">☰</div>
           <div class="nav-menu">
@@ -76,7 +76,7 @@
             <a href="about-us/" class="nav-item">About</a>
             <div class="nav-item dropdown" id="services-dropdown">
               Services <span class="dropdown-arrow">▾</span>
-              <ul class="dropdown-menu">
+              <ul class="dropdown-menu" style="display: none;">
                 <li><a href="book-promotion/">Book Promotion</a></li>
                 
               </ul>
@@ -87,15 +87,15 @@
       </div>
 
      
-      <div class="col-md-4 text-center">
+      <div class="col-lg-4 col-4 text-center">
         <div class="logo-book-publishing">
           <a href="/">
-            <img src="../images/logo-main-booking.png" class="logo-set-image" alt="Logo">
+            <img src="../images/logo-main-booking.png" class="logo-set-image" alt="StorylinePublisher">
           </a>
         </div>
       </div>
 
-      <div class="col-md-4 text-end">
+      <div class="col-lg-4 col-4 text-end">
         <div class="contact-us-btn-sec">
           <a href="contact-us/" class="btn-contact-sec">Contact Us</a>
         </div>
