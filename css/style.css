@@ -4814,7 +4814,7 @@ p.vgy a:hover {
     transition: 0.3s;
     cursor: pointer;
     box-shadow: 0px 9px 13px 0px rgb(0 0 0 / 50%);
-    border-bottom: 7px solid #ef0001;
+    border-bottom: 7px solid #F47F45;
 }
 
 .ertyfdswe h3.bb {
@@ -7726,10 +7726,7 @@ p {
         padding-left: 0;
     }
 
-    section#why-choose-us h3 {
-        font-size: 45px !important;
-        line-height: 55px !important;
-    }
+    
 
     section#why-choose-us h6 {
         text-align: center;
@@ -7898,7 +7895,7 @@ section.container-fluid.bannimg textarea {
     }
 
     .banner-publishing-main {
-        height: 65vh;
+        height: 55vh !important;
     }
 
     .main-card-system .book-publising-card {
@@ -8005,16 +8002,10 @@ section.container-fluid.bannimg textarea {
     line-height: 20px !important;
     }
     ul.ytu {
-        text-align: left;
+        text-align: center;
     }
-    h3.uyt {
-        margin-right: 28px;
-    }
-    h3.jki {
-        text-align: start !important;
-
-        line-height: 20px !important;
-    }
+   
+   
     
     .vgy {
         margin-top: 0px;
@@ -8044,5 +8035,128 @@ section.container-fluid.bannimg textarea {
         font-size: 20px !important;
         color: #000000;
     }
-
+    .footerbox .footer-right .form-control {
+        padding: 6px 18px !important;
+        border: 2px solid #a4a9a4;
+    }
+    #exampleInputName, #exampleInputEmail {
+        margin-top: 20px;
+    }
+    section.footer-form-sec.wow.bounceInUp {
+        padding: 45px 0px;
+    }
+    .testimonial-block {
+        & .info-box {
+            .designation {
+                font-size: 12px;
+            }}
+        }
+        h3.uyt {
+            text-align: center !important;
+            margin-bottom: 6px;
+            margin-right: 0;
+            line-height: unset !important;
+        }
+        h3.jki {
+            text-align: center !important;
+            margin-bottom: 6px;
+            margin-right: 0;
+            line-height: unset !important;
+        }
+        .contact-fit-img {
+            display: none;
+        }
+        .contact-heading-page h1 {
+            font-size: 32.41px !important;
+        }
+        .contact-heading-page p {
+            font-size: 16px !important;
+        }
+        .hjtyuifr {
+            margin-bottom: 20px;
+        }
+        .inner-serivce-banner-hero-sec {
+            padding-top: 40px;
+            padding-bottom: 40px;
+        }
+        .inner-banner-image {
+            text-align: center;
+            margin-top: 40px;
+        }
+        section#why-choose-us h3 {
+            font-size: 35px !important;
+            line-height: 15px !important;
+            margin-top: 52px;
+        }
+        section#why-choose-us h6 {
+            font-size: 16px;
+        }
+        .why-choose-img-sec {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .video-container::after {
+            background: linear-gradient(135deg, rgb(171 164 162 / 61%) 0%, rgb(171 164 162 / 21%) 33%, rgb(171 164 162 / 21%) 67%, rgba(255, 236, 227, 1) 100%);
+            backdrop-filter: blur(4px);
+        }
+        #pills-tab {
+            flex-wrap: wrap-reverse;
+        }
+        .container-fluid.column5 {
+            height: auto;
+        }
+        .hy {
+            margin-top: 25px;
+        }
+        .button-div {
+            display: flex
+        ;
+            justify-content: center;
+            gap: 20px;
+        }
+        .week-best-seller-books-img-banner img {
+            width: 75%;
+        }
+        .week-best-seller-books-img-banner {
+            text-align: center;
+            margin-top: 50px;
+        }
+        .bntnnewwrr {
+            padding-left: 0;
+        }
+        .week-best-seller-books-set {
+            margin-top: 80px;
+            margin-bottom: 0;
+        }
+        .our-wild-partner-heading h1 {
+            font-size: 20.41px !important;
+        }
+        .logo-our-wild-img-section img {
+            object-fit: contain;
+            width: 40px;
+        }
+        .book-end-need-firstbox{
+            border-right: 0px solid #fff;
+        }
+        .icon-book-box img {
+            width: 56px;
+        }
+        .book-end-need-firstbox1 {
+            gap: 80px;
+            margin-top: 14px;
+            margin-left: 0;
+        }
+        .our-wild-partner {
+            padding: 50px 0;
+        }
+        a.btn.btn21-warning {
+            border: 1px solid orangered;
+        }
+        img.studentSize {
+            width: 80%;
+        }
+        .bntnnewwrr {
+            background: #fdf6ed;
+            padding-top: 50px;
+        }
 }

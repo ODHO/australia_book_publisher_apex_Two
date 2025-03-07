@@ -234,55 +234,55 @@
 
     <!-- Testimonial Section -->
     <section class="testimonial-section">
-        <div class="large-container">
-            <div class="sec-title">
-                <span class="title">Testimonial</span>
-                <h2>What Our core client say ?</h2>
-            </div>
+    <div class="large-container">
+        <div class="sec-title">
+            <span class="title">Testimonials</span>
+            <h2>What Our Authors & Readers Say?</h2>
+        </div>
 
-            <div class="testimonial-carousel owl-carousel owl-theme">
-                <!-- Testimonial Block -->
-                <div class="testimonial-block">
-                    <div class="inner-box">
-                        <div class="text">Why is this important? Because clients want to know the businesses they depend on for advice, are well managed in their own right. Not only that but this event gives you the chance to give your back-office team</div>
-                        <div class="info-box">
-                            <div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt=""></div>
-                            <h4 class="name">john Riad Ridi</h4>
-                            <span class="designation">Ui Designer & CEO</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Testimonial Block -->
-                <div class="testimonial-block">
-                    <div class="inner-box">
-                        <div class="text">Why is this important? Because clients want to know the businesses they depend on for advice, are well managed in their own right. Not only that but this event gives you the chance to give your back-office team</div>
-                        <div class="info-box">
-                            <div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt=""></div>
-                            <h4 class="name">john Riad</h4>
-                            <span class="designation">tax Designer & CEO</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Testimonial Block -->
-                <div class="testimonial-block">
-                    <div class="inner-box">
-                        <div class="text">Why is this important? Because clients want to know the businesses they depend on for advice, are well managed in their own right. Not only that but this event gives you the chance to give your back-office team</div>
-                        <div class="info-box">
-                            <div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt=""></div>
-                            <h4 class="name">john Hell Riad</h4>
-                            <span class="designation">tech Designer & CEO</span>
-                        </div>
+        <div class="testimonial-carousel owl-carousel owl-theme">
+            <!-- Testimonial Block -->
+            <div class="testimonial-block">
+                <div class="inner-box">
+                    <div class="text">"Publishing my book with **Australian Book Publishing** was a seamless experience. Their expert team guided me through editing, design, and marketing, making my dream a reality!"</div>
+                    <div class="info-box">
+                        <div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt="Author"></div>
+                        <h4 class="name">Emily Watson</h4>
+                        <span class="designation">Author of "The Art of Storytelling"</span>
                     </div>
                 </div>
             </div>
 
-            <div class="thumb-layer paroller">
-                <figure class="image"><img src="images/user-thumbs 2.png" alt=""></figure>
+            <div class="testimonial-block">
+                <div class="inner-box">
+                    <div class="text">"Publishing my book with **Australian Book Publishing** was a seamless experience. Their expert team guided me through editing, design, and marketing, making my dream a reality!"</div>
+                    <div class="info-box">
+                        <div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt="Author"></div>
+                        <h4 class="name">Emily Watson</h4>
+                        <span class="designation">Author of "The Art of Storytelling"</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Testimonial Block -->
+            <div class="testimonial-block">
+                <div class="inner-box">
+                    <div class="text">"The team at **Australian Book Publishing** provided outstanding support in publishing my poetry collection. Their editing, formatting, and distribution services were top-notch!"</div>
+                    <div class="info-box">
+                        <div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt="Author"></div>
+                        <h4 class="name">Sophia Reynolds</h4>
+                        <span class="designation">Poet & Author of "Echoes of the Heart"</span>
+                    </div>
+                </div>
             </div>
         </div>
-    </section>
+
+        <div class="thumb-layer paroller">
+            <figure class="image"><img src="images/user-thumbs 2.png" alt="Books"></figure>
+        </div>
+    </div>
+</section>
+
     <!--End Testimonial Section -->
 
 

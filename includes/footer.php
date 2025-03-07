@@ -11,7 +11,7 @@
                     <img src="images/images-ibook.png" height="30">
                     <img src="images/images-hatchee.png" height="30"> -->
                 </div>
-                <div class="col-md-2">
+                <div class="col-md-2 col-6">
                     <h3 class="uyt">About Us</h3>
                     <ul class="ytu">
                         <li><a href="/">Home</a></li>
@@ -22,7 +22,7 @@
                         <li><a href="contact-us/">Contact Us</a></li>
                     </ul>
                 </div>
-                <div class="col-md-2">
+                <div class="col-md-2 col-6">
                     <h3 class="jki">Services</h3>
                     <ul class="ytu">
                         <li><a href="#"> Book Promotions </a></li>
@@ -31,7 +31,7 @@
 						<!-- <li><a href="book-cover-designing/"> Cover Design </a></li> -->
 						<li><a href="#"> Proofreading </a></li>
 						<li><a href="#"> Publishing </a></li>
-						<li><a href="#"> Article Writing </a></li>
+						<!-- <li><a href="#"> Article Writing </a></li> -->
                         <!-- <li><a href="book-promotion/"> Book Promotions </a></li>
 						<li><a href="e-book-writing/"> E-Book Writing </a></li>
 						<li><a href="editing/"> Editing </a></li>
@@ -53,7 +53,7 @@
                     <p><p style="margin-bottom: 32px; color:#000000 !important;"><strong>Disclaimer:</strong> Australian Book Publishing  is an independent entity helping self-reliant authors with book publishing and marketing solutions. We believe in ethical business practices and abide by US Federal and State Laws.</p></p>
                 </div>
                 <div class="col-lg-4">
-                <p class="color" style="margin-top: 40px;"><a href="terms-and-condition/">Terms & Conditions</a> | <a href="privacy-policy/">Privacy Policy</a></p>
+                <p class="color" style="margin-top: 40px;"><a href="#">Terms & Conditions</a> | <a href="#">Privacy Policy</a></p>
                 </div>
             </div>
             <div class="pt-sm-5">

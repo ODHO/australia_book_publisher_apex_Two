@@ -93,23 +93,23 @@
 <div class="container ertyfdswe">
   <div class="row row-cols-2 row-cols-lg-3">
       
-    <div class="col-lg-2 hjtyuifr">
+    <div class="col-lg-2 col-8 hjtyuifr">
         <h3 class="bb">Writing for Boundless Genres</h3>
         <p class="bbh">Our expert writers enjoy writing for every genre since Australian Book Publishing  is driven by the brainpower of well-educated professionals who specialize in diverse fields of study.</p>
     </div>
-    <div class="col-lg-2 hjtyuifr">
+    <div class="col-lg-2 col-8 hjtyuifr">
         <h3 class="bb">Brainstorming to reach excellence</h3>
         <p class="bbh">We are the change-makers in the publishing industry with hopes held up high to achieve excellence. Let’s receive the love and praises you deserve from your audience.</p>
         </div>
-    <div class="col-lg-2 hjtyuifr">
+    <div class="col-lg-2 col-8 hjtyuifr">
         <h3 class="bb">Affordable Packages</h3>
             <p class="bbh">We provide affordable packages to our clients and offer additional deals and discounts so they can become published authors without breaking the bank.</p>
         </div>
-    <div class="col-lg-2 hjtyuifr">
+    <div class="col-lg-2 col-8 hjtyuifr">
         <h3 class="bb">One-Stop Solution</h3>
         <p class="bbh">Courtesy of our experience and professional expertise, we can provide a wide range of book writing and marketing solutions.</p>
         </div>
-    <div class="col-lg-2 hjtyuifr">
+    <div class="col-lg-2 col-8 hjtyuifr">
         <h3 class="bb">Complete Ownership</h3>
         <p class="bbh">Get complete ownership of your work and enjoy endless royalties and net profits through our book. We do not take any credit for the services we render. </p>
         </div>
