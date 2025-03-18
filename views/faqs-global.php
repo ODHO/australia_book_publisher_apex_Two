@@ -1,7 +1,8 @@
 <div class="container-fluid opiu home-faqs  ">
         <div class="row align-items-center ">
             <div class="col-lg-12">
-            <h2 class="rtyui">Frequently Asked Question</h2>
+            <h2 class="rtyui">Frequently Asked Questions (FAQs)
+            </h2>
                     <p class="erty">We have enlisted some of the frequently asked questions here. If you are looking for specific questions <br> that you do not find it here, we’d love to hear from you. </p>
                     
             </div>
@@ -13,23 +14,14 @@
                         <h2 class="accordion-header" id="headingOne">
                             <button class="accordion-button collapsed clr" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                Q. What does the book printing cost?
+                                Q. How do I get started with Book Publishing Australia?
                             </button>
                         </h2>
                         <div id="collapseOne" class="accordion-collapse collapse " aria-labelledby="headingOne"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                <strong>As much as we’d love to give you a one-go answer, it is important to know that the printing cost depends on various factors. </strong>
-                                <br>
-                                Page quality
-                                <br>
-                                Content color
-                                <br>
-                                Number of pages
-                                <br>
-                                Binding type
-                                <br>
-                                Or the Number of copies ordered
+                                AGetting started is easy! Contact us with your manuscript or book idea, and our expert Australian book publishers will guide you through the process. 
+                                
                             </div>
                         </div>
                     </div>
@@ -37,13 +29,13 @@
                         <h2 class="accordion-header" id="headingTwo">
                             <button class="accordion-button collapsed clr" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                Q. What is the process of calculating royalty?
+                                Q. Do you provide marketing services for books?
                             </button>
                         </h2>
                         <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                <strong>One of the most popular formulas for calculating the royalty is multiplying the sales with the royalty percentage you have agreed on. The formula would look something like this Royalty revenue = Sales X Royalty percentage. Since we do not keep your net royalty earnings, rest assured that you do not have to worry about calculating royalty. All your profits and revenue generated from the sales will your solely yours. </strong>
+                            Yes! As one of the top content marketing agencies, we promote your book through SEO, social media, and email marketing.
                             </div>
                         </div>
                     </div>
@@ -51,13 +43,13 @@
                         <h2 class="accordion-header" id="headingThree">
                             <button class="accordion-button collapsed clr" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                Q. Does the author have complete ownership rights for her/his book/script/illustrations?
+                                Q. Can I publish my book independently?
                             </button>
                         </h2>
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                <strong>Yes, the author holds 100% film rights for her/his work. But you must notify us of the detailed good news to spread socially. That is it. No commission.</strong>
+                            Absolutely! We offer self-publishing services and expert support from our book publishers in Australia to help you achieve success.
                             </div>
                         </div>
                     </div>
@@ -75,13 +67,14 @@
                         <h2 class="accordion-header" id="headingFour">
                             <button class="accordion-button collapsed clr" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                Q. Who will hold the copyright?
+                                Q. How much do your publishing services cost?
                             </button>
                         </h2>
                         <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                <strong>As per our policy, all the ownership rights will be delivered to the author once we deliver the work. In all cases, the author holds complete ownership rights of the work. </strong>
+                            We offer competitive content writing prices and customizable publishing packages to fit your budget.
+
                             </div>
                         </div>
                     </div>
@@ -89,13 +82,14 @@
                         <h2 class="accordion-header" id="headingFive">
                             <button class="accordion-button collapsed clr" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                Q. How much time does it take to get your book published?
+                                Q. Do you distribute books to major bookstores in Australia?
                             </button>
                         </h2>
                         <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                <strong>The time of publication depends on the type of publication the author has selected. Nevertheless, our general duration for the publication is approximately 7 to 14 days. This time starts from the moment you approve the final file shared with you, along with the verification of payment with us. It is important to know that some of the distribution channels may take a longer time, but the book will be available in our store within time, with a guarantee.</strong>
+                            Yes! We ensure your book reaches leading Australian book publishing companies and top bookstores.
+
                             </div>
                         </div>
                     </div>
@@ -103,13 +97,14 @@
                         <h2 class="accordion-header" id="headingffff">
                             <button class="accordion-button collapsed clr" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseghjh" aria-expanded="false" aria-controls="collapseghjh">
-                                Q. Does the author have complete ownership rights for her/his book/script/illustrations?
+                                Q. What types of books do you publish?
+
                             </button>
                         </h2>
                         <div id="collapseghjh" class="accordion-collapse collapse" aria-labelledby="headingffff"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                <strong>Yes, the author holds 100% film rights for her/his work. But you must notify us of the detailed good news to spread socially. That is it. No commission.</strong>
+                            We publish all genres, including fiction, non-fiction, academic, and children’s books. Our team helps you create a unique book that appeals to your target audience.
                             </div>
                         </div>
                     </div>

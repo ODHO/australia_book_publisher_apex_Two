@@ -169,7 +169,7 @@
         </div>
 
     </section>
-      <div class="our-wild-partner">
+    <div class="our-wild-partner">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -180,34 +180,34 @@
                     <div class="logo-our-wild-img">
                         <div class="row">
                             <div class="col-md-12">
-                            <div class="logo-our-wild-img-section">
-                             <img src="../images/par-logo.png" alt="">
-                             <img src="../images/par-logo2.png" alt="">
-                             <img src="../images/par-logo3.png" alt="">
-                             <img src="../images/par-logo4.png" alt="">
-                             <img src="../images/par-logo6.png" alt="">
-                             </div>
+                                <div class="logo-our-wild-img-section">
+                                    <img src="../images/par-logo.png" alt="">
+                                    <img src="../images/par-logo2.png" alt="">
+                                    <img src="../images/par-logo3.png" alt="">
+                                    <img src="../images/par-logo4.png" alt="">
+                                    <img src="../images/par-logo6.png" alt="">
+                                </div>
                             </div>
                         </div>
                     </div>
                     <div class="logo-our-wild-img">
                         <div class="row">
                             <div class="col-md-12">
-                            <div class="logo-our-wild-img-section">
-                             <img src="../images/par-logo8.png" alt="">
-                             <img src="../images/par-logo-7.png" alt="">
-                             <img src="../images/par-logo-9.png" alt="">
-                             <img src="../images/par-logo.png" alt="">
-                             <img src="../images/par-logo3.png" alt="">
-                             </div>
+                                <div class="logo-our-wild-img-section">
+                                    <img src="../images/par-logo8.png" alt="">
+                                    <img src="../images/par-logo-7.png" alt="">
+                                    <img src="../images/par-logo-9.png" alt="">
+                                    <img src="../images/par-logo.png" alt="">
+                                    <img src="../images/par-logo3.png" alt="">
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-      </div>
-      <div class="book-end-need">
+    </div>
+    <div class="book-end-need">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
@@ -234,7 +234,7 @@
                 </div>
             </div>
         </div>
-      </div>
+    </div>
 
     <?php include_once("form-global.php") ?>
 

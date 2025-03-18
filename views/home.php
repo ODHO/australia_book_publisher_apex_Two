@@ -18,30 +18,32 @@
 
     <div class="banner-publishing-main">
         <div class="container redp2">
-           <div class="row">
-           <div class="col-md-6">
-                <div class="banner-heading-and-set">
-                    <h1>Self-Publishing on</h1>
-                    <h3>Amazon Simplified.</h3>
-                    <p>Australian Book Publishing  is a leader in self-publishing facilitation and marketing for
-                        independent authors. Our goal is to help you publish your book while offering premium
-                        quality services throughout the project cycle. Above all, you get to take 100% of your net
-                        royalties!</p>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="banner-heading-and-set">
+                        <h1>Bringing Your Story to Life with Expert Publishing Services
+                        </h1>
+                        <h3>Amazon Simplified.</h3>
+                        <p>Welcome to Book Publishing Australia, your go-to destination for turning your ideas into
+                            professionally published books. Whether you're a first-time author or an experienced writer,
+                            we help you navigate the publishing process with ease. Our team of Australian book
+                            publishers ensures your book gets the attention it deserves, from content creation to distribution
+                            across major bookstores in Australia.</p>
+                    </div>
+                    <div class="btn-banner-two-button">
+                        <a href="#" class="btn-start-pro">Start Project</a>
+                        <a href="#" class="btn-start-pro">Get a Quote</a>
+                    </div>
                 </div>
-                <div class="btn-banner-two-button">
-                    <a href="#" class="btn-start-pro">Start Project</a>
-                    <a href="#" class="btn-start-pro">Get a Quote</a>
-                </div>
-            </div>
-            <div class="col-md-6">
+                <div class="col-md-6">
                 </div>
             </div>
         </div>
         <div class="video-setin">
-        <video autoplay loop muted >
-  <source src="../images/vdie.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+            <video autoplay loop muted>
+                <source src="../images/vdie.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
 
         </div>
     </div>
@@ -126,8 +128,9 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="work-we-do-heading">
-                        <h3>What we do</h3>
-                        <h1>Delivering First-Class Digital Services</h1>
+
+                        <h1>Our Comprehensive Publishing Services
+                        </h1>
                     </div>
                 </div>
             </div>
@@ -140,63 +143,81 @@
                             <div class="col-md-3">
                                 <div class="book-publising-card">
                                     <div class="icon-container">
-                                       <img src="../images/researching.svg.png" alt="">
+                                        <img src="../images/researching.svg.png" alt="">
                                     </div>
-                                    <h3 class="title">Branding Design</h3>
-                                    <p class="description">Our support team will get assistance from AI-powered</p>
+                                    <h3 class="title">Professional Book Publishing</h3>
+                                    <p class="description">We help authors through every stage of the publishing process. Our book publishers in Australia
+                                        provide editing, formatting, and cover design services to ensure your book meets industry standards.</p>
                                 </div>
                             </div>
                             <div class="col-md-3">
                                 <div class="book-publising-card">
                                     <div class="icon-container">
-                                       <img src="../images/critical.svg.png" alt="">
+                                        <img src="../images/critical.svg.png" alt="">
                                     </div>
-                                    <h3 class="title">Graphic Design</h3>
-                                    <p class="description">Our support team will get assistance from AI-powered</p>
-                                </div>
-                            </div>
-
-                            <div class="col-md-6">
-                              <div class="back-ground-image-banner-work-we-do">
-
-                              </div>
-                            </div>
-
-
-                        </div>
-                     <div class="pos-banner-work-we">
-                     <div class="row">
-                            <div class="col-md-3">
-                            <div class="book-publising-card">
-                                    <div class="icon-container">
-                                       <img src="../images/formatting.svg fill.png" alt="">
-                                    </div>
-                                    <h3 class="title">Video Editing</h3>
-                                    <p class="description">Our support team will get assistance from AI-powered</p>
+                                    <h3 class="title">Content Writing & Editing</h3>
+                                    <p class="description">Our expert writers craft engaging content tailored to your audience. As one of the best content agencies, we offer top-notch content writing prices with high-quality editorial services.
+                                    </p>
                                 </div>
                             </div>
                             <div class="col-md-3">
-                            <div class="book-publising-card">
+                                <div class="book-publising-card">
                                     <div class="icon-container">
-                                       <img src="../images/branding.svg.png" alt="">
+                                        <img src="../images/critical.svg.png" alt="">
                                     </div>
-                                    <h3 class="title">Voice Over</h3>
-                                    <p class="description">Our support team will get assistance from AI-powered</p>
+                                    <h3 class="title">Unique Book Ideas & Guidance
+                                    </h3>
+                                    <p class="description">Looking for inspiration? Our team helps you explore unique book concepts, refine ideas, and bring your vision to life.
+
+                                    </p>
                                 </div>
                             </div>
+
                             <div class="col-md-3">
-                            <div class="book-publising-card">
-                                    <div class="icon-container">
-                                       <img src="../images/genuine.svg.png" alt="">
-                                    </div>
-                                    <h3 class="title">Content Writing</h3>
-                                    <p class="description">Our support team will get assistance from AI-powered</p>
+                                <div class="back-ground-image-banner-work-we-do">
+
                                 </div>
                             </div>
 
 
                         </div>
-                     </div>
+                        <div class="pos-banner-work-we">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <div class="book-publising-card">
+                                        <div class="icon-container">
+                                            <img src="../images/formatting.svg fill.png" alt="">
+                                        </div>
+                                        <h3 class="title">Marketing & Promotion</h3>
+                                        <p class="description">As one of the leading content marketing agencies, we promote your book through digital marketing, social media, and PR strategies, ensuring maximum exposure</p>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="book-publising-card">
+                                        <div class="icon-container">
+                                            <img src="../images/branding.svg.png" alt="">
+                                        </div>
+                                        <h3 class="title">istribution Across Australian Bookstores
+                                        </h3>
+                                        <p class="description">We ensure your book is available in top bookstores Australia-wide, increasing its reach and sales potential.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="book-publising-card">
+                                        <div class="icon-container">
+                                            <img src="../images/genuine.svg.png" alt="">
+                                        </div>
+                                        <h3 class="title">Self-Publishing Assistance
+                                        </h3>
+                                        <p class="description">For those who want more control over their book, we offer self-publishing services with expert guidance from our Australian book publishers.
+                                        </p>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -212,11 +233,11 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <h2>Get the Support You Need to Succeed as an Author</h2>
+                    <h2>Why Choose Book Publishing Australia? </h2>
                     <p>
 
-                        Our team of experts has years of experience in the ebook writing industry, and they know what it takes to write a top-selling ebook. With our ebook writing services, you can trust that you're getting the best support
-                        and guidance from the industry's top authors. Our Services for the Best Ebook Writing and Services for Authors
+                        We are one of the top Australian book publishing companies committed to delivering high-quality publishing and marketing solutions. From editorial services to book design and marketing,
+                        we provide everything needed to get your book into the hands of readers.
                     </p>
                     <div class="recognation-button-1">
                         <a class="recog-btn-1" href=""> Get a Quote</a>
@@ -234,54 +255,94 @@
 
     <!-- Testimonial Section -->
     <section class="testimonial-section">
-    <div class="large-container">
-        <div class="sec-title">
-            <span class="title">Testimonials</span>
-            <h2>What Our Authors & Readers Say?</h2>
-        </div>
+        <div class="large-container">
+            <div class="sec-title">
+                <span class="title">Testimonials</span>
+                <h2>What Our Authors Say - Testimonials</h2>
+            </div>
 
-        <div class="testimonial-carousel owl-carousel owl-theme">
-            <!-- Testimonial Block -->
-            <div class="testimonial-block">
-                <div class="inner-box">
-                    <div class="text">"Publishing my book with **Australian Book Publishing** was a seamless experience. Their expert team guided me through editing, design, and marketing, making my dream a reality!"</div>
-                    <div class="info-box">
-                        <div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt="Author"></div>
-                        <h4 class="name">Emily Watson</h4>
-                        <span class="designation">Author of "The Art of Storytelling"</span>
+            <div class="testimonial-carousel owl-carousel owl-theme">
+                <!-- Testimonial Block -->
+                <div class="testimonial-block">
+                    <div class="inner-box">
+                        <div class="text">"Thanks to Book Publishing Australia, my dream of becoming a published author came true! Their guidance was invaluable."</div>
+                        <div class="info-box">
+                            <div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt="Author"></div>
+                            <h4 class="name"> Olivia M.</h4>
+                            <!-- <span class="designation">Author of "The Art of Storytelling"</span> -->
+                        </div>
+                    </div>
+                </div>
+
+                <div class="testimonial-block">
+                    <div class="inner-box">
+                        <div class="text"> "I highly recommend their services. They helped me polish my manuscript and get it into major bookstores Australia-wide."
+                        </div>
+                        <div class="info-box">
+                            <div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt="Author"></div>
+                            <h4 class="name">James R.</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Testimonial Block -->
+                <div class="testimonial-block">
+                    <div class="inner-box">
+                        <div class="text">"The best Australian book publishers I’ve worked with! They truly understand an author's needs."</div>
+                        <div class="info-box">
+                            <div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt="Author"></div>
+                            <h4 class="name">Sarah K.</h4>
+                            <!-- <span class="designation">Poet & Author of "Echoes of the Heart"</span> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-block">
+                    <div class="inner-box">
+                        <div class="text">"Their marketing team did wonders for my book. I saw a huge increase in sales thanks to their promotional strategies"</div>
+                        <div class="info-box">
+                            <div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt="Author"></div>
+                            <h4 class="name">Mark T.</h4>
+                            <!-- <span class="designation">Poet & Author of "Echoes of the Heart"</span> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-block">
+                    <div class="inner-box">
+                        <div class="text">"Professional, reliable, and dedicated to helping authors succeed. The best book publishers Australia has to offer."</div>
+                        <div class="info-box">
+                            <div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt="Author"></div>
+                            <h4 class="name"> Emma B.</h4>
+                            <!-- <span class="designation">Poet & Author of "Echoes of the Heart"</span> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-block">
+                    <div class="inner-box">
+                        <div class="text">"I was amazed by their affordable content writing prices and the quality of their editorial services."</div>
+                        <div class="info-box">
+                            <div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt="Author"></div>
+                            <h4 class="name"> Lucas H.</h4>
+                            <!-- <span class="designation">Poet & Author of "Echoes of the Heart"</span> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-block">
+                    <div class="inner-box">
+                        <div class="text">"The team helped me develop a unique book that truly stands out in the market. Highly recommend!"</div>
+                        <div class="info-box">
+                            <div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt="Author"></div>
+                            <h4 class="name">Natalie P.</h4>
+                            <!-- <span class="designation">Poet & Author of "Echoes of the Heart"</span> -->
+                        </div>
                     </div>
                 </div>
             </div>
 
-            <div class="testimonial-block">
-                <div class="inner-box">
-                    <div class="text">"Publishing my book with **Australian Book Publishing** was a seamless experience. Their expert team guided me through editing, design, and marketing, making my dream a reality!"</div>
-                    <div class="info-box">
-                        <div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt="Author"></div>
-                        <h4 class="name">Emily Watson</h4>
-                        <span class="designation">Author of "The Art of Storytelling"</span>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Testimonial Block -->
-            <div class="testimonial-block">
-                <div class="inner-box">
-                    <div class="text">"The team at **Australian Book Publishing** provided outstanding support in publishing my poetry collection. Their editing, formatting, and distribution services were top-notch!"</div>
-                    <div class="info-box">
-                        <div class="thumb"><img src="http://t.commonsupport.com/adro/images/resource/thumb-1.jpg" alt="Author"></div>
-                        <h4 class="name">Sophia Reynolds</h4>
-                        <span class="designation">Poet & Author of "Echoes of the Heart"</span>
-                    </div>
-                </div>
+            <div class="thumb-layer paroller">
+                <figure class="image"><img src="images/user-thumbs 2.png" alt="Books"></figure>
             </div>
         </div>
-
-        <div class="thumb-layer paroller">
-            <figure class="image"><img src="images/user-thumbs 2.png" alt="Books"></figure>
-        </div>
-    </div>
-</section>
+    </section>
 
     <!--End Testimonial Section -->
 
@@ -296,7 +357,7 @@
         <div class="wrapper" style="margin: 30px 0px;">
             <div class="box">
                 <i class="fas fa-quote-left quote"></i>
-                <p>If you’re looking for a truly dedicated team of publishers, you’ve come to the right place! Kudos to Australian Book Publishing  for keeping up with the constantly changing requirements of the book. I couldn’t have covered everything without their professional help and attention to detail. Done and dusted with book one and looking forward to publishing my next installment!</p>
+                <p>If you’re looking for a truly dedicated team of publishers, you’ve come to the right place! Kudos to Australian Book Publishing for keeping up with the constantly changing requirements of the book. I couldn’t have covered everything without their professional help and attention to detail. Done and dusted with book one and looking forward to publishing my next installment!</p>
                 <div class="content">
                     <div class="info">
                         <div class="name">Ameli</div>
@@ -316,7 +377,7 @@
             </div>
             <div class="box">
                 <i class="fas fa-quote-left quote"></i>
-                <p>1 thing down, 10 more to go! That’s how I began working on publishing my book, until Australian Book Publishing  came along. Their commitment to winding up all the publishing processes within the time frame deserves all the appreciation. They picked up my slack and got everything in order in a timely manner. My book came out at least a couple of months before my original planning for releasing the book and I’d ever considered getting professional help. Thank you guys!</p>
+                <p>1 thing down, 10 more to go! That’s how I began working on publishing my book, until Australian Book Publishing came along. Their commitment to winding up all the publishing processes within the time frame deserves all the appreciation. They picked up my slack and got everything in order in a timely manner. My book came out at least a couple of months before my original planning for releasing the book and I’d ever considered getting professional help. Thank you guys!</p>
                 <div class="content">
                     <div class="info">
                         <div class="name">John</div>
@@ -336,7 +397,7 @@
             </div>
             <div class="box">
                 <i class="fas fa-quote-left  quote"></i>
-                <p>When I wanted to publish my first book, I had no idea where to start. Thanks to Australian Book Publishing  and their team of editors for patiently assisting and guiding me through the entire process. They’re now my go-to publication for all my future books.</p>
+                <p>When I wanted to publish my first book, I had no idea where to start. Thanks to Australian Book Publishing and their team of editors for patiently assisting and guiding me through the entire process. They’re now my go-to publication for all my future books.</p>
                 <div class="content">
                     <div class="info">
                         <div class="name">Laura</div>
@@ -512,9 +573,10 @@
                     <div class="container rety">
                         <div class="row align-items-center">
                             <div class="col-md-12">
-                                <h3 class="opim">No Time to Waste? </h3>
-                                <p class="ghj">We keep everything simple and make your lives easier when it comes
-                                    <br> to publishing. It’s easy to approach us; get in touch today.
+                                <h3 class="opim">Get in Touch Today!
+                                </h3>
+                                <p class="ghj">Ready to publish your book? Partner with Book Publishing Australia for expert guidance, professional services, and a seamless publishing experience.
+                                    <br> Contact us now and take the first step toward becoming a published author!
                                 </p>
                             </div>
                             <div class="col-md-12"></div>
@@ -531,6 +593,17 @@
         </div>
     </section>
     <?php include_once("form-global.php") ?>
+    <section class="set_tagline">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="set_tagline_heading">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <?php include_once("includes/footer.php") ?>
 

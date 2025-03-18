@@ -19,10 +19,12 @@
             <div class="row">
                 <div class="col-md-5">
                     <div class="inner-serivce-banner-heading" style="margin-bottom: 50px;">
-                        <h1> Ghost Writing Services in Australia </h1>
+                        <h1> Content Marketing Services in Australia
+                        </h1>
 
-                        <p> <b>Turn Your Ideas into Reality with Professional Ghost Writing Services</b>
-                            Have a story to tell but don’t know how to put it into words? Our expert ghostwriters can help!
+                        <p> <b>Drive Growth with Expert Content Marketing Services</b>
+                            Looking to build your brand, attract more customers, and increase engagement?
+
 
                         </p>
                     </div>
@@ -85,30 +87,33 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="why-choose-service-head">
-                        <h3>Our Ghost Writing Services</h3>
-                        <h6>Book Ghost Writing</h6>
-                        <p>Have a story or expertise to share? Our expert ghostwriters will craft a compelling book while ensuring your voice and vision shine. </p>
-                        <h6>Blog & Article Writing
-                        </h6>
-                        <p>Boost your online presence with professionally written blogs and articles. Our ghostwriters Australia create content that engages and informs your audience.
-                        </p>
-                        <h6>Business & Corporate Writing
-                        </h6>
-                        <p>Need speeches, reports, or business documents? Our ghostwriters help communicate your message clearly and professionally.
-                        </p>
-                        <h6> Memoir & Autobiography Writing
-                        </h6>
-                        <p>Share your life story with the world. Our ghostwriters will help turn your experiences into a beautifully written book.
-                        </p>
-                        <h6> Speech Writing
-                        </h6>
-                        <p>Make an impact with powerful speeches crafted by our skilled ghostwriters.
-
-                        </p>
-                        <h6>Editing & Proofreading
+                        <h3>Our Content Marketing Services </h3>
+                        <h6>Blog & Article Writing</h6>
+                        <p>Boost your website traffic with engaging and SEO-friendly blogs. Our Sydney content writing services provide high-quality articles tailored to your audience. </p>
+                        <h6> Website Content Strategy
 
                         </h6>
-                        <p>Already have content but need refinement? We polish your words for clarity, coherence, and impact.
+                        <p>Enhance your website with compelling content that drives user engagement and conversions. Our content marketing services in Sydney ensure your site stands out.
+                        </p>
+                        <h6>Social Media Content
+                        </h6>
+                        <p>From captions to full-length posts, we create social media content that increases brand awareness and engagement.
+
+                        </p>
+                        <h6> Email Marketing Content
+                        </h6>
+                        <p>Keep your audience engaged with targeted email campaigns. Our experts craft compelling content that boosts open rates and conversions.
+                        </p>
+                        <h6> Video & Infographic Content
+
+                        </h6>
+                        <p>Visual content is key! We create shareable infographics and video scripts that enhance your content marketing strategy.
+                        </p>
+                        <h6>Content Strategy & Planning
+
+                        </h6>
+                        <p>Not sure where to start? Our content marketing agency Sydney provides expert strategy development tailored to your business needs.
+
 
 
                         </p>
@@ -139,21 +144,24 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <h2>Why Choose Our Ghost Writing Services?</h2>
+                    <h2>Why Choose Our Content Marketing Services?
+                    </h2>
 
                     <p>
-                        We provide top-tier ghostwriting services tailored to your needs. Here’s why clients trust us:
+                        We are a trusted content marketing agency in Sydney, delivering high-quality content solutions that drive engagement and growth. Here’s why businesses choose us:
+
                     </p>
 
                     <ol>
-                        <li><b> Experienced Ghostwriters </b>– Skilled professionals across various genres.
+                        <li><b> SEO-Optimized Content </b>– Improve rankings and visibility.
+
                         </li>
-                        <li><b> Confidentiality Guaranteed </b>– Your identity and ideas are protected.
+                        <li><b> High-Quality Writing </b>– Content that engages and converts.
                         </li>
-                        <li><b>SEO & Engagement Focused</b>– We craft content that ranks and resonates.</li>
-                        <li><b> Industry-Specific Expertise </b>– Business, fiction, memoirs, blogs, and more.
+                        <li><b>Multi-Platform Strategies</b>– Content for blogs, social media, and websites.</li>
+                        <li><b> Custom Content Plans </b>– Strategies tailored to your business goals.
                         </li>
-                        <li><b> Timely Delivery </b>– High-quality writing within your deadline.
+                        <li><b> Expert Team </b>– Skilled writers and marketers ready to elevate your brand.
                         </li>
 
                     </ol>
@@ -173,7 +181,7 @@
 
     <!-- Column 3 Start -->
 
-    <div class="week-best-seller-books-set">
+    <!-- <div class="week-best-seller-books-set">
         <div class="container bntnnewwrr">
             <div class="row align-items-center">
                 <div class="col-md-7">
@@ -214,7 +222,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
 
     <div class="single-service-back-set">
@@ -281,10 +289,10 @@
                 <div class="row align-items-center">
                     <div class="col-md-6">
                         <div class="what-is-ghost-writing-text">
-                            <h1>What is Ghost Writing?
+                            <h1>What is Content Marketing?
                             </h1>
-                            <p>Many people ask, what is ghostwriting? Simply put, it’s a professional service where an experienced writer creates content on behalf of
-                                another person who is credited as the author. From books to speeches, ghostwriters Australia brings ideas to life without taking credit.</p>
+                            <p>Content marketing is a strategy focused on creating valuable, relevant, and consistent content to attract and retain a clearly defined audience. A professional content marketing agency helps businesses build trust, generate leads, and boost brand visibility.
+                            </p>
                         </div>
                     </div>
                     <div class="col-md-6">
@@ -301,8 +309,7 @@
     <div class="container-fluid opiu home-faqs  ">
         <div class="row align-items-center ">
             <div class="col-lg-12">
-                <h2 class="rtyui">FAQs About Ghost Writing Services
-
+                <h2 class="rtyui">FAQs About Content Marketing Services
                 </h2>
                 <p class="erty">We have enlisted some of the frequently asked questions here. If you are looking for specific questions <br> that you do not find it here, we’d love to hear from you. </p>
 
@@ -315,13 +322,13 @@
                         <h2 class="accordion-header" id="headingOne">
                             <button class="accordion-button collapsed clr" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                Q.What is ghostwriting?
+                                Q.What are content marketing services?
                             </button>
                         </h2>
                         <div id="collapseOne" class="accordion-collapse collapse " aria-labelledby="headingOne"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Ghostwriting meaning refers to hiring a professional writer to create content that is credited to another person.
+                                Content marketing services include creating and distributing valuable content to attract and retain customers.
                             </div>
                         </div>
                     </div>
@@ -329,15 +336,13 @@
                         <h2 class="accordion-header" id="headingTwo">
                             <button class="accordion-button collapsed clr" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                Q. What is a ghostwriter's role?
+                                Q. Why is content marketing important?
                             </button>
                         </h2>
                         <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                A ghostwriter researches, writes, and edits content while ensuring it aligns with the client’s vision and voice.
-
-
+                                It helps businesses build trust, improve SEO, and generate leads through engaging and informative content.
                             </div>
                         </div>
                     </div>
@@ -345,14 +350,14 @@
                         <h2 class="accordion-header" id="headingThree">
                             <button class="accordion-button collapsed clr" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                Q. How much do ghostwriters in Australia charge?
+                                Q. How does a content marketing agency help businesses?
 
                             </button>
                         </h2>
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                The cost varies based on the project type, length, and complexity. Contact us for a quote.
+                                A content marketing agency Sydney develops and executes content strategies that align with business goals.
                             </div>
                         </div>
                     </div>
@@ -370,16 +375,14 @@
                         <h2 class="accordion-header" id="headingFour">
                             <button class="accordion-button collapsed clr" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                Q. Do ghostwriters keep ownership of the content?
+                                Q.How often should I publish content?
 
                             </button>
                         </h2>
                         <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                No, once the project is completed, full ownership and credit go to the client.
-
-
+                                The frequency depends on your goals, but a consistent posting schedule improves engagement and SEO rankings
                             </div>
                         </div>
                     </div>
@@ -387,14 +390,14 @@
                         <h2 class="accordion-header" id="headingFive">
                             <button class="accordion-button collapsed clr" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                Q. Can ghostwriting help with SEO?
+                                Q.Can content marketing help with SEO?
 
                             </button>
                         </h2>
                         <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Yes! Our ghostwriting services include SEO optimization to improve online visibility.
+                                Yes! Content marketing services Sydney focus on creating optimized content that boosts search engine rankings
 
 
                             </div>
@@ -404,7 +407,7 @@
                         <h2 class="accordion-header" id="headingffff">
                             <button class="accordion-button collapsed clr" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseghjh" aria-expanded="false" aria-controls="collapseghjh">
-                                Q. How long does a ghostwriting project take?
+                                Q. Do you offer content marketing for small businesses?
 
 
                             </button>
@@ -412,7 +415,7 @@
                         <div id="collapseghjh" class="accordion-collapse collapse" aria-labelledby="headingffff"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Timelines vary depending on the project scope. We ensure timely delivery without compromising quality.
+                                Absolutely! Our Sydney content writing services are tailored to businesses of all sizes.
 
 
                             </div>
@@ -428,7 +431,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="heing-set">
-                        <p>Ready to bring your ideas to life? Our ghostwriters Australia are here to help. Contact us today to get started!</p>
+                        <p>Let us help you create content that drives results. Contact our content marketing agency Sydney today!</p>
                     </div>
                 </div>
             </div>
@@ -462,79 +465,41 @@
 
 
 
-    <section id="home-section-contact">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-lg-6  my-auto align-self-center">
-                    <div class="home-sec-image-wrapper">
-                        <img src="../images/struggle-book-image.png" alt="">
-                    </div>
-                </div>
-                <div class="col-lg-6  my-auto align-self-center">
-                    <div class="container rety">
-                        <div class="row align-items-center">
-                            <div class="col-md-12">
-                                <h3 class="opim">What is a Ghostwriter?
-
-                                </h3>
-                                <p class="ghj">Many people wonder, what is a ghostwriter. A ghostwriter is a professional writer who creates content on behalf of another person, ensuring their voice and ideas are accurately represented.
-
-                                </p>
-                                <h4 class="men-ese">
-                                    Ghost Writer Meaning in Different Industries
-                                </h4>
-                                <p class="pmen-ese">The ghostwriter meaning varies across industries. Whether it’s writing books for celebrities, blog posts for businesses, or speeches for executives, ghostwriters play a crucial role in content creation.
-                                </p>
-                                <!-- <div class="tag-line-set-fill">
-                                    <h2>Taglines:</h2>
-                                    <p>Engaging SEO Content That Drives Results!</p>
-                                    <p>Optimized Words, Maximum Impact!</p>
-                                    <p>Boost Your Brand with High-Quality Content!</p>
-                                </div> -->
-                            </div>
-                            <div class="col-md-12"></div>
-                            <div class="col-md-12">
-                                <div class="time-button">
-                                    <a href="contact-us/" class="btn btn23-primary btn-lg">Contact us</a>
-                                    <a href="tel:+18554794213" class="btn btn256-primary btn-lg"> <i class="bi bi-telephone-fill"></i> +1 (855) 479-4213</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
     <section id="recognition-home">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
                     <h2 style="text-align: left;">
-                        Benefits of Hiring a Ghostwriter
+                        The Role of a Content Marketing Agency
 
 
                     </h2>
+                    <p>A professional content agency Sydney helps businesses:</p>
 
                     <div class="recognition-list">
                         <ul>
                             <li>
-                                <a href=""> Save time and effort
+                                <a href=""> Improve brand awareness
+
 
                                 </a>
                             </li>
                             <li>
-                                <a href="">High-quality, professional writing</a>
+                                <a href=""> Generate high-quality leads</a>
                             </li>
                             <li>
-                                <a href=""> Maintain your brand voice
+                                <a href=""> Increase website traffic
+
                                 </a>
                             </li>
                             <li>
-                                <a href=""> Engage and connect with your audience
+                                <a href=""> Enhance customer engagement
+
                                 </a>
                             </li>
                             <li>
-                                <a href=""> Rank higher on search engines with SEO-focused content
+                                <a href=""> Boost search engine rankings
+
                                 </a>
                             </li>
 

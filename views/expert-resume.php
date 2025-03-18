@@ -19,11 +19,12 @@
             <div class="row">
                 <div class="col-md-5">
                     <div class="inner-serivce-banner-heading" style="margin-bottom: 50px;">
-                        <h1> Ghost Writing Services in Australia </h1>
+                        <h1>Expert Resume Writing Services in Australia</h1>
+                        <h3>Stand Out with Professional Resume Writing Services </h3>
 
-                        <p> <b>Turn Your Ideas into Reality with Professional Ghost Writing Services</b>
-                            Have a story to tell but don’t know how to put it into words? Our expert ghostwriters can help!
-
+                        <p> Are you struggling to land your dream job? Our resume writing services in Australia are
+                            designed to help you create a compelling resume that grabs employers' attention. Whether you need a customer service resume,
+                            executive CV, or entry-level resume, our expert resume writers craft documents that highlight your strengths and experience.
                         </p>
                     </div>
                     <div class="recognation-button-1">
@@ -85,30 +86,38 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="why-choose-service-head">
-                        <h3>Our Ghost Writing Services</h3>
-                        <h6>Book Ghost Writing</h6>
-                        <p>Have a story or expertise to share? Our expert ghostwriters will craft a compelling book while ensuring your voice and vision shine. </p>
-                        <h6>Blog & Article Writing
+                        <h3>Our Resume Services</h3>
+                        <h6>Professional Resume Writing
                         </h6>
-                        <p>Boost your online presence with professionally written blogs and articles. Our ghostwriters Australia create content that engages and informs your audience.
+                        <p>Our professional resume writers craft resumes that showcase your skills and experience, making a lasting impression on hiring managers.
                         </p>
-                        <h6>Business & Corporate Writing
+                        <h6>Resume Editing & Optimization
                         </h6>
-                        <p>Need speeches, reports, or business documents? Our ghostwriters help communicate your message clearly and professionally.
+                        <p>Already have a resume? Our resume writing services Australia can refine and optimize your resume to meet industry standards.
                         </p>
-                        <h6> Memoir & Autobiography Writing
-                        </h6>
-                        <p>Share your life story with the world. Our ghostwriters will help turn your experiences into a beautifully written book.
-                        </p>
-                        <h6> Speech Writing
-                        </h6>
-                        <p>Make an impact with powerful speeches crafted by our skilled ghostwriters.
+                        <h6>Cover Letter Writing
 
-                        </p>
-                        <h6>Editing & Proofreading
 
                         </h6>
-                        <p>Already have content but need refinement? We polish your words for clarity, coherence, and impact.
+                        <p>A strong cover letter enhances your application. We provide personalized cover letters that highlight your strengths.
+
+
+
+                        </p>
+                        <h6> LinkedIn Profile Optimization
+
+                        </h6>
+                        <p>Enhance your professional presence with a LinkedIn profile that aligns with your resume.
+                        </p>
+                        <h6> Industry-Specific Resume Writing
+                        </h6>
+                        <p>From IT and finance to healthcare and customer service resume writing, we tailor resumes to your industry.
+                        </p>
+                        <h6> Interview Coaching
+                        </h6>
+                        <p>Pair your resume with expert coaching to ace your interviews.
+
+
 
 
                         </p>
@@ -139,21 +148,22 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <h2>Why Choose Our Ghost Writing Services?</h2>
+                    <h2>Why Choose Our Resume Writing Services?</h2>
 
                     <p>
-                        We provide top-tier ghostwriting services tailored to your needs. Here’s why clients trust us:
+                        Our professional resume writing experts understand what recruiters look for. We offer:
                     </p>
 
                     <ol>
-                        <li><b> Experienced Ghostwriters </b>– Skilled professionals across various genres.
+                        <li><b> Industry-Specific Expertise </b>– Tailored resumes for every industry.
                         </li>
-                        <li><b> Confidentiality Guaranteed </b>– Your identity and ideas are protected.
+                        <li><b> Keyword-Optimized Content </b>– Helping your resume pass Applicant Tracking Systems (ATS).
                         </li>
-                        <li><b>SEO & Engagement Focused</b>– We craft content that ranks and resonates.</li>
-                        <li><b> Industry-Specific Expertise </b>– Business, fiction, memoirs, blogs, and more.
+                        <li><b> Customized & Unique Resumes</b>– Helping you reach a wider audience. </li>
+                        <li><b> Fast Turnaround </b>– Get a professionally written resume quickly.
                         </li>
-                        <li><b> Timely Delivery </b>– High-quality writing within your deadline.
+                        <li><b>100% Satisfaction Guarantee </b>– We work until you're happy with the result.
+
                         </li>
 
                     </ol>
@@ -178,25 +188,19 @@
             <div class="row align-items-center">
                 <div class="col-md-7">
                     <div class="week-best-seller-books-text-heading">
-                        <h1>Our Process – How We Deliver the Best SEO Content
+                        <h1>How Our Resume Writing Service Works
+
                         </h1>
                         <ol>
-                            <li><b>Understanding Your Business Needs</b> – We analyze your niche, audience, and goals.
+                            <li><b> Consultation</b> – We discuss your career goals and experience.
                             </li>
-                            <li><b>Keyword Research</b> – Finding the best keywords for your content.
+                            <li><b> Drafting & Writing</b> – Our expert resume writers craft your resume.
 
                             </li>
-                            <li><b>Content Creation</b> Writing high-quality, engaging, and optimized content.
+                            <li><b> Review & Edits </b>You provide feedback, and we refine the resume.
 
                             </li>
-                            <li><b>Editing & Proofreading</b> Ensuring error-free and polished content.
-
-                            </li>
-                            <li><b>SEO Optimization</b> Implementing best practices for better rankings.
-
-                            </li>
-                            <li><b>Delivery & Revisions</b> We refine the content to meet your expectations.
-
+                            <li><b>Final Delivery </b> Receive a polished, job-winning resume.
 
                             </li>
                         </ol>
@@ -275,34 +279,33 @@
         </div>
 
     </section>
-    <div class="our-wild-partner">
+    <!-- <div class="our-wild-partner">
         <div class="container">
-            <div class="logo-our-wild-img">
-                <div class="row align-items-center">
-                    <div class="col-md-6">
-                        <div class="what-is-ghost-writing-text">
-                            <h1>What is Ghost Writing?
-                            </h1>
-                            <p>Many people ask, what is ghostwriting? Simply put, it’s a professional service where an experienced writer creates content on behalf of
-                                another person who is credited as the author. From books to speeches, ghostwriters Australia brings ideas to life without taking credit.</p>
+                    <div class="logo-our-wild-img">
+                        <div class="row align-items-center">
+                            <div class="col-md-6">
+                                <div class="what-is-ghost-writing-text">
+                                    <h1>What is Content Marketing?
+                                    </h1>
+                                    <p>Content marketing is a strategy focused on creating valuable, relevant, and consistent content to attract and retain a clearly defined audience. A professional content marketing agency helps businesses build trust, generate leads, and boost brand visibility.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                 <div class="what-is-ghost-writing-img">
+                                    <img src="images/cover-16.png" alt="">
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-md-6">
-                        <div class="what-is-ghost-writing-img">
-                            <img src="images/cover-16.png" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
+                  
+               
         </div>
-    </div>
+    </div> -->
     <div class="container-fluid opiu home-faqs  ">
         <div class="row align-items-center ">
             <div class="col-lg-12">
-                <h2 class="rtyui">FAQs About Ghost Writing Services
-
+                <h2 class="rtyui">FAQs About Resume Writing Services
                 </h2>
                 <p class="erty">We have enlisted some of the frequently asked questions here. If you are looking for specific questions <br> that you do not find it here, we’d love to hear from you. </p>
 
@@ -315,13 +318,13 @@
                         <h2 class="accordion-header" id="headingOne">
                             <button class="accordion-button collapsed clr" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                Q.What is ghostwriting?
+                                Q. What are resume writing services?
                             </button>
                         </h2>
                         <div id="collapseOne" class="accordion-collapse collapse " aria-labelledby="headingOne"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Ghostwriting meaning refers to hiring a professional writer to create content that is credited to another person.
+                                Our resume writing services involve crafting, editing, and optimizing resumes to help job seekers stand out.
                             </div>
                         </div>
                     </div>
@@ -329,13 +332,14 @@
                         <h2 class="accordion-header" id="headingTwo">
                             <button class="accordion-button collapsed clr" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                Q. What is a ghostwriter's role?
+                                Q.How do professional resume writers help?
+
                             </button>
                         </h2>
                         <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                A ghostwriter researches, writes, and edits content while ensuring it aligns with the client’s vision and voice.
+                                Professional resume writers use industry expertise and strategic formatting to create compelling resumes tailored to specific job roles.
 
 
                             </div>
@@ -345,14 +349,15 @@
                         <h2 class="accordion-header" id="headingThree">
                             <button class="accordion-button collapsed clr" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                Q. How much do ghostwriters in Australia charge?
+                                Q. How long does it take to get a resume?
+
 
                             </button>
                         </h2>
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                The cost varies based on the project type, length, and complexity. Contact us for a quote.
+                                Our resume service delivers a professionally written resume within 3-5 business days.
                             </div>
                         </div>
                     </div>
@@ -370,15 +375,13 @@
                         <h2 class="accordion-header" id="headingFour">
                             <button class="accordion-button collapsed clr" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                Q. Do ghostwriters keep ownership of the content?
-
+                                Q.Do you offer industry-specific resumes?
                             </button>
                         </h2>
                         <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                No, once the project is completed, full ownership and credit go to the client.
-
+                                Yes! Whether you need a customer service resume or an executive-level CV, we tailor resumes to fit your industry.
 
                             </div>
                         </div>
@@ -387,15 +390,13 @@
                         <h2 class="accordion-header" id="headingFive">
                             <button class="accordion-button collapsed clr" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                Q. Can ghostwriting help with SEO?
-
+                                Q.Are your resume writing services Australia-wide?
                             </button>
                         </h2>
                         <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Yes! Our ghostwriting services include SEO optimization to improve online visibility.
-
+                                Yes, we provide resume writing services Australia-wide, including major cities like Sydney and Melbourne.
 
                             </div>
                         </div>
@@ -404,7 +405,7 @@
                         <h2 class="accordion-header" id="headingffff">
                             <button class="accordion-button collapsed clr" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseghjh" aria-expanded="false" aria-controls="collapseghjh">
-                                Q. How long does a ghostwriting project take?
+                                Q.How do I get started?
 
 
                             </button>
@@ -412,7 +413,8 @@
                         <div id="collapseghjh" class="accordion-collapse collapse" aria-labelledby="headingffff"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Timelines vary depending on the project scope. We ensure timely delivery without compromising quality.
+                                Simply contact us, provide your details, and our expert resume writers Sydney will handle the rest!
+
 
 
                             </div>
@@ -428,7 +430,8 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="heing-set">
-                        <p>Ready to bring your ideas to life? Our ghostwriters Australia are here to help. Contact us today to get started!</p>
+                        <p>Let our professional resume writers create a resume that gets results. Contact us today to upgrade your career prospects!
+                        </p>
                     </div>
                 </div>
             </div>
@@ -462,79 +465,41 @@
 
 
 
-    <section id="home-section-contact">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-lg-6  my-auto align-self-center">
-                    <div class="home-sec-image-wrapper">
-                        <img src="../images/struggle-book-image.png" alt="">
-                    </div>
-                </div>
-                <div class="col-lg-6  my-auto align-self-center">
-                    <div class="container rety">
-                        <div class="row align-items-center">
-                            <div class="col-md-12">
-                                <h3 class="opim">What is a Ghostwriter?
-
-                                </h3>
-                                <p class="ghj">Many people wonder, what is a ghostwriter. A ghostwriter is a professional writer who creates content on behalf of another person, ensuring their voice and ideas are accurately represented.
-
-                                </p>
-                                <h4 class="men-ese">
-                                    Ghost Writer Meaning in Different Industries
-                                </h4>
-                                <p class="pmen-ese">The ghostwriter meaning varies across industries. Whether it’s writing books for celebrities, blog posts for businesses, or speeches for executives, ghostwriters play a crucial role in content creation.
-                                </p>
-                                <!-- <div class="tag-line-set-fill">
-                                    <h2>Taglines:</h2>
-                                    <p>Engaging SEO Content That Drives Results!</p>
-                                    <p>Optimized Words, Maximum Impact!</p>
-                                    <p>Boost Your Brand with High-Quality Content!</p>
-                                </div> -->
-                            </div>
-                            <div class="col-md-12"></div>
-                            <div class="col-md-12">
-                                <div class="time-button">
-                                    <a href="contact-us/" class="btn btn23-primary btn-lg">Contact us</a>
-                                    <a href="tel:+18554794213" class="btn btn256-primary btn-lg"> <i class="bi bi-telephone-fill"></i> +1 (855) 479-4213</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section id="recognition-home">
+    <!-- <section id="recognition-home">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
                     <h2 style="text-align: left;">
-                        Benefits of Hiring a Ghostwriter
+                    The Role of a Content Marketing Agency
 
 
                     </h2>
+                    <p>A professional content agency Sydney helps businesses:</p>
 
                     <div class="recognition-list">
                         <ul>
                             <li>
-                                <a href=""> Save time and effort
+                                <a href="">  Improve brand awareness
+
 
                                 </a>
                             </li>
                             <li>
-                                <a href="">High-quality, professional writing</a>
+                                <a href=""> Generate high-quality leads</a>
                             </li>
                             <li>
-                                <a href=""> Maintain your brand voice
+                                <a href="">   Increase website traffic
+
                                 </a>
                             </li>
                             <li>
-                                <a href=""> Engage and connect with your audience
+                                <a href="">   Enhance customer engagement
+
                                 </a>
                             </li>
                             <li>
-                                <a href=""> Rank higher on search engines with SEO-focused content
+                                <a href="">  Boost search engine rankings
+
                                 </a>
                             </li>
 
@@ -554,7 +519,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <?php include_once("form-global.php") ?>
 

@@ -313,7 +313,7 @@ section.container-fluid.bannimg {
 .banner-heading-and-set h1 {
     font-family: "Urbanist", serif !important;
     font-weight: 800 !important;
-    font-size: 60px !important;
+    font-size: 35px !important;
     color: #000000;
 }
 
@@ -328,7 +328,7 @@ section.container-fluid.bannimg {
 .banner-heading-and-set p {
     font-family: "Urbanist", serif !important;
     color: #000000;
-    font-size: 17.25px;
+    font-size: 16.25px;
     padding-top: 30px;
 
 }
@@ -396,8 +396,10 @@ section.container-fluid.bannimg {
     border: 1px solid #ddd;
     list-style: none;
     padding: 0;
-    width: 150px;
+    width: 220px;
     z-index: 1000;
+    margin-top: 20px;
+
 }
 
 .dropdown-menu li {
@@ -408,6 +410,11 @@ section.container-fluid.bannimg {
     text-decoration: none;
     color: black;
     display: block;
+    text-decoration: none;
+    color: black;
+    display: block;
+    border-bottom: 1px solid #f0f0f0;
+    padding: 10px;
 }
 
 .dropdown-menu li:hover {
@@ -436,14 +443,15 @@ section.container-fluid.bannimg {
 
 .inner-serivce-banner-heading h1 {
     color: #111111;
-    font-size: 65px;
+    font-size: 45px;
     font-weight: 400;
     font-family: "Urbanist", serif !important;
+    line-height: 55px;
 }
 
 .inner-serivce-banner-heading h3 {
     color: #111111;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 400;
     font-family: "Urbanist", serif !important;
 
@@ -486,6 +494,10 @@ section.container-fluid.bannimg {
 .inner-serivce-banner-hero-sec {
     padding-top: 100px;
     padding-bottom: 100px;
+    margin-top: 100px;
+}
+.inner-serivce-banner-heading {
+    margin-bottom: 35px;
 }
 
 .why-choose-img-sec {
@@ -501,12 +513,16 @@ section.container-fluid.bannimg {
 
 .week-best-seller-books-text-heading h1 {
     color: #111111;
-    font-size: 48px;
+    font-size: 35px;
     font-family: "Urbanist", serif !important;
     font-weight: 800;
-
+    line-height: 46px;
+    margin-bottom: 25px !important;
 }
 
+.week-best-seller-books-text-heading ol li {
+   margin-bottom: 10px;
+}
 .week-best-seller-books-text-heading p {
     color: #111111;
     font-size: 16px;
@@ -663,6 +679,22 @@ section#help-sec-home .row.row-1 ul li {
     list-style: none;
 }
 
+section#help-sec-home ol li {
+    list-style: none;
+    color: #2b2d3a;
+    position: relative;
+    font-size: 14px;
+    padding-left: 25px;
+    padding-bottom: 5px;
+}
+section#help-sec-home .row.row-1 ol li::before {
+    content: "\f194";
+    font-family: 'bootstrap-icons';
+    position: absolute;
+    left: 0;
+    font-size: 15px;
+    color: #ef0001;
+}
 section#help-sec-home .row.row-1 {
     align-items: center;
 }
@@ -758,6 +790,7 @@ section#help-sec-home h2 {
 
 .help-sec-img-wrapper img {
     animation: float 3s ease-in-out infinite;
+    width: 100%;
 }
 
 @keyframes float {
@@ -888,7 +921,7 @@ section#recognition-home {
 }
 
 section#recognition-home h2 {
-    font-size: 34px;
+    font-size: 30px !important;
     font-weight: 700;
     text-align: center;
     padding-bottom: 20px;
@@ -936,23 +969,23 @@ section#recognition-home .recognition-list ul {
     margin-bottom: 40px;
     padding: 30px;
     background-image: url('../images/back-banner-test.png');
-    background-position: center center;
+    background-position: calc(92% - -43px) center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 700px;
 }
 
 .main-card-system .book-publising-card {
     background-color: white;
-    padding: 2rem;
+    padding: 2rem 1rem;
     box-shadow: 0px 26.67px 53.33px -53.33px #DBE3ED66;
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
-    max-width: 280px;
+    /* max-width: 280px; */
     transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
     cursor: pointer;
+    height: 300px;
 }
 
 .main-card-system .book-publising-card:hover {
@@ -1004,18 +1037,21 @@ section#recognition-home .recognition-list ul {
 
 
 .main-card-system .title {
-    font-size: 1.125rem;
+    font-size: 15px;
     font-weight: 500;
     color: #1f2937;
     margin-bottom: 0.5rem;
+    line-height: 20px;
 }
 
 
 
 .main-card-system .description {
-    color: #6b7280;
-    font-size: 0.875rem;
+  color: #6b7280;
+    font-size: 12px;
 }
+
+
 
 
 /* .back-ground-image-banner-work-we-do{
@@ -4223,9 +4259,7 @@ section.carousel.rado-set-two {
 }
 
 h1.heading1 span {
-    background: linear-gradient(45deg, #fc538da6, #ce3df3ba);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+  color: #F78431;
     font-weight: 700;
 }
 
@@ -5215,10 +5249,22 @@ div#accordionExample p {
 }
 
 section#home-section-contact h3.opim {
-    font-size: 50px;
+    font-size: 32px;
     line-height: 60px;
     margin: 0;
     color: #fff;
+}
+.tag-line-set-fill p {
+    color: #fff;
+}
+.tag-line-set-fill {
+    margin-top: 30px;
+}
+.tag-line-set-fill h2 {
+    color: #ffff;
+    font-family: "Urbanist", serif !important;
+    font-size: 30px !important;
+    font-weight: 200;
 }
 
 .home-form a {
@@ -5418,11 +5464,15 @@ section#why-choose-us h6 {
 }
 
 section#why-choose-us h3 {
-    font-size: 45px !important;
+    font-size: 35px !important;
     color: #111111;
     font-family: "Urbanist", serif !important;
+    line-height: 55px;
 }
-
+.heing-set p {
+    text-align: center;
+    color: #ffff;
+}
 /* .column1 .row {
     align-items: center;
 } */
@@ -5431,6 +5481,25 @@ section#why-choose-us {
     padding-bottom: 50px;
 
 }
+.what-is-ghost-writing-img {
+    text-align: center;
+}
+
+.what-is-ghost-writing-img img {
+    width: 50%;
+}
+h4.men-ese{
+    color: #ffffff;
+    font-family: "Urbanist", serif !important;
+    font-size: 28px !important;
+    margin-top: 20px;
+
+}
+p.pmen-ese{
+    color: #ffffff;
+    font-size: 15px;
+
+} 
 
 /* why choose us */
 
@@ -6949,7 +7018,7 @@ p {
         .thumb {
             position: absolute;
             left: 0;
-            top: 0;
+            top: -17px;
             height: 82px;
             width: 82px;
 
@@ -7164,6 +7233,10 @@ p {
     p {
         font-size: 15px !important;
     }
+    .week-best-seller-books-text-heading h1 {
+        font-size: 20px !important;
+    }
+
 
     .text4 {
         padding-right: 50px;
@@ -7759,20 +7832,34 @@ section.container-fluid.bannimg textarea {
 }
 
 @media screen and (min-width: 320px) and (max-width: 768px) {
-
+    .week-best-seller-books-text-heading h1 {
+        font-size: 20px !important;
+    }
 
     .video-setin {
         display: none;
     }
+    .main-card-system .title {
+        font-size: 15px !important;
+    }
 }
 @media screen and (min-width: 1024px) and (max-width: 1200px) {
+    .week-best-seller-books-text-heading h1 {
+        font-size: 20px !important;
+    }
     div#services-dropdown {
         display: flex;
         align-items: center;
     }
+    .main-card-system .title {
+        font-size: 15px !important;
+    }
 }
 
 @media screen and (min-width: 320px) and (max-width: 768px) {
+    .week-best-seller-books-text-heading h1 {
+        font-size: 20px !important;
+    }
     .hamburger {
         display: block;
     }
@@ -7872,16 +7959,17 @@ section.container-fluid.bannimg textarea {
     }
 
     .banner-heading-and-set h1 {
-        font-size: 26px !important;
+        font-size: 18px !important;
+        line-height: 30px !important;
     }
 
     .banner-heading-and-set h3 {
-        font-size: 18px !important;
+        font-size: 16px !important;
 
     }
 
     .banner-heading-and-set {
-        margin-top: 50px;
+        margin-top: 70px;
     }
 
     .banner-heading-and-set p {
@@ -7901,7 +7989,7 @@ section.container-fluid.bannimg textarea {
     }
 
     .banner-publishing-main {
-        height: 55vh !important;
+        height: 45vh !important
     }
 
     .main-card-system .book-publising-card {
@@ -8091,11 +8179,17 @@ section.container-fluid.bannimg textarea {
         }
         section#why-choose-us h3 {
             font-size: 35px !important;
-            line-height: 15px !important;
+            line-height: 45px !important;
             margin-top: 52px;
+        }
+        section#help-sec-home ol li {
+            padding-bottom: 15px;
         }
         section#why-choose-us h6 {
             font-size: 16px;
+        }
+        .fdewgfrewfawe {
+            margin-top: 50px;
         }
         .why-choose-img-sec {
             text-align: center;
@@ -8165,4 +8259,9 @@ section.container-fluid.bannimg textarea {
             background: #fdf6ed;
             padding-top: 50px;
         }
+}
+@media only screen and (max-width:300px) {
+    .week-best-seller-books-text-heading h1 {
+        font-size: 16px !important;
+    }
 }

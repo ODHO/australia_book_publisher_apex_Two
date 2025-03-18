@@ -67,7 +67,7 @@
 </section> -->
 <div class="main-header-book-publishing">
   <div class="container">
-  <div class="row align-items-center">
+    <div class="row align-items-center">
       <div class="col-lg-4 col-4">
         <nav>
           <div class="hamburger" onclick="toggleMenu()">☰</div>
@@ -77,8 +77,12 @@
             <div class="nav-item dropdown" id="services-dropdown">
               Services <span class="dropdown-arrow">▾</span>
               <ul class="dropdown-menu" style="display: none;">
-                <li><a href="book-promotion/">Book Promotion</a></li>
-                
+                <li><a href="seo-content/">SEO Content </a></li>
+                <li><a href="ghost-writing/">Ghost Writing </a></li>
+                <li><a href="content-marketing/">Content Marketing </a></li>
+                <li><a href="professional-book/">Professional Book</a></li>
+                <li><a href="expert-resume/">Expert Resume</a></li>
+
               </ul>
             </div>
             <a href="#" class="nav-item">Portfolio</a>
@@ -86,11 +90,11 @@
         </nav>
       </div>
 
-     
+
       <div class="col-lg-4 col-4 text-center">
         <div class="logo-book-publishing">
           <a href="/">
-            <img src="../images/logo-main-booking.png" class="logo-set-image" alt="StorylinePublisher">
+            <img src="../images/hyjg.png" class="logo-set-image" alt="StorylinePublisher">
           </a>
         </div>
       </div>
@@ -109,17 +113,17 @@
     document.querySelector(".nav-menu").classList.toggle("active");
   }
 
-  document.addEventListener("DOMContentLoaded", function () {
+  document.addEventListener("DOMContentLoaded", function() {
     const servicesDropdown = document.getElementById("services-dropdown");
     const dropdownMenu = servicesDropdown.querySelector(".dropdown-menu");
 
-    servicesDropdown.addEventListener("click", function (event) {
+    servicesDropdown.addEventListener("click", function(event) {
       event.stopPropagation();
       dropdownMenu.style.display =
         dropdownMenu.style.display === "block" ? "none" : "block";
     });
 
-    document.addEventListener("click", function () {
+    document.addEventListener("click", function() {
       dropdownMenu.style.display = "none";
     });
   });
